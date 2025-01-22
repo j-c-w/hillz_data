@@ -11766,7 +11766,18 @@
                         "name": "All-Time"
                     }
                 },
-                "local_legend": null
+                "local_legend": {
+                    "athlete_id": 113906672,
+                    "title": "Anthony Guilvard",
+                    "profile": "https://lh3.googleusercontent.com/a/ACg8ocJINZIQsCesHnbKpJHURj-capjspOSo5Pq-cRi8FQA22dqEkQ=s96-c",
+                    "effort_description": "9 efforts in the last 90 days",
+                    "effort_count": "9",
+                    "effort_counts": {
+                        "overall": "9 efforts",
+                        "female": "3 efforts"
+                    },
+                    "destination": "strava://segments/1118197/local_legend?categories%5B%5D=overall"
+                }
             },
             "xoms": {
                 "women": [
