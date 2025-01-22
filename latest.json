@@ -10874,7 +10874,18 @@
             "name": "All-Time"
           }
         },
-        "local_legend": null
+        "local_legend": {
+          "athlete_id": 19762516,
+          "title": "Richard Amos",
+          "profile": "https://graph.facebook.com/10155164177069887/picture?height=256&width=256",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/30773575/local_legend?categories%5B%5D=overall"
+        }
       },
       "xoms": {
         "women": [
@@ -11753,7 +11764,18 @@
             "name": "All-Time"
           }
         },
-        "local_legend": null
+        "local_legend": {
+          "athlete_id": 19762516,
+          "title": "Richard Amos",
+          "profile": "https://graph.facebook.com/10155164177069887/picture?height=256&width=256",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/30773575/local_legend?categories%5B%5D=overall"
+        }
       },
       "xoms": {
         "women": [
