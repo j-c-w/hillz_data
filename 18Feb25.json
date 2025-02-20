@@ -1,0 +1,1276 @@
+{
+  "title": "Feb 18",
+  "route": {
+    "athlete": {
+      "id": 14283998,
+      "username": "jackson_woodruff",
+      "resource_state": 2,
+      "firstname": "Jackson",
+      "lastname": "Woodruff",
+      "bio": "",
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "country": "United Kingdom",
+      "sex": "M",
+      "premium": true,
+      "summit": true,
+      "created_at": "2016-04-02T12:00:21Z",
+      "updated_at": "2025-02-04T06:43:26Z",
+      "badge_type_id": 1,
+      "weight": 60,
+      "profile_medium": "https://graph.facebook.com/2327424074277771/picture?height=256&width=256",
+      "profile": "https://graph.facebook.com/2327424074277771/picture?height=256&width=256",
+      "friend": null,
+      "follower": null
+    },
+    "description": "",
+    "distance": 27216.23396825431,
+    "elevation_gain": 551.357248117344,
+    "id": 3307844714223640000,
+    "id_str": "3307844714223640230",
+    "map": {
+      "id": "r3307844714223640230",
+      "summary_polyline": "eiptIb}lRl@VtDsTZqc@bCFnBqE|Lh_@f@~L{AvEkCmUaDtIZrKUuLpC{HtAvD~@|OkAfNtC~WwFiKiH]eXn\\qG~Or@`DxBp@~G_D|@sDfB|AfMoFgMnFgB}A}@rDqFrEhCpGtL{EVjBjCmArBnKNtAuJjElBfSvAo@qC``@dQ{IGvFvBdCCtFjBrFpGxDvCc@cDdNaBpc@iMbNzBdqA~CrCpDsKfC}@tDdk@rKiMpDtCtGcLxBg@E}D_LgDoRfQ~@|OrKiMpDtCtGcLxCUy@fJ_N`UnAwBrGr[zD`_@xDc@eCxL^|Q]yJbGQnIji@fErhA{f@xLnf@wLkHtCoCrQoDe@AnQyK_AMdF|S`BtCc`@vEoDZkRmEq_A{F_ZaDd@`De@eGupAc^`l@iBcp@gHzHeJsFuEzGuGc@lA{Ki@uXwR{zBdVaOuGsKsAaI`@sEp@tO|KlO\\p_@hMcNnBkd@",
+      "resource_state": 3,
+      "polyline": "eiptIb}lRN?\\VFyBLIJQp@cEtAuGJcAZqc@bCFbAwCj@y@fI~WdArDD@XCNv@A?V`DR|DA~ACf@UbAMLs@|AQyBW{GUgCa@{Aa@eAGMIGKJw@tCmAxCE`@J`IBh@Jf@Kg@Ci@KaIDa@lAyCv@uCJKHFFL`@dA`@zATfCVzGPxBSj@Q~@YpBKxB?nCHvAfBzQJ?DDPdBOHMuAKQMGc@EQMQ[uAaDe@i@FYCMOIG@g@QCYMECh@yCe@y@VALFf@GBO?qApAMd@ODDZMFGo@uA|A_BbBeCdE_@ZqCnDBVANELa@b@_CtAaDhIoBtEVXZfCFBpAe@H@Jx@HVJOrGoC?y@L_AL[`@]T?^D\\`@Rt@fMoFgMnFSu@]a@_@EU?a@\\MZM~@?x@qEjB_@fBp@v@d@x@X~@V~AlImDfBm@FLN|AjCmA\\rCTdA~@tDNtAuJjElBfSvAo@YzDG~A@xDIbB_@zDo@|FWl@PTtCo@xByAbHgF@rBIbCXBVLTTZh@Rr@Jl@BlAGpAKf@xAbBEp@Dl@Pn@R\\ZXb@JJ?TMNYjC|CH]V_@JITEP?ZLd@ZuA`Gs@nDIXOX@`@g@lFCv@FhBZvBCTe@bC[vBOzHEXYt@g@r@gKxJlAxq@Hj@V^@PUxAC~ACjQf@fC^pAXh@TPTHf@BPG`@e@Zu@VcAl@aDHWb@y@d@g@TKt@?TIpArPbBpYfK_LJi@\\Nd@Z~AhBL?f@aAlFaJj@g@^M`@BJHH_BO}AGMs@o@MSaApAO?uD_Da@OU?UFq@^q@h@uJjJsBxBa@V~@|OfK_LJi@\\Nd@Z~AhBL?f@aAlFaJj@g@^M`@BVTRDDnAOLGTE~BK|@Ut@_N`UnAwBdGd\\LQrDl^FRLJJ?lBg@p@G?|@sAjDYrAWzBCtCDlARhBl@|DAXGRYb@Xc@FS@Ym@}DSiBr@g@L@NJJLVp@NLZDNCXO\\e@XQT~Ch@|F`@lClA|GlBrIp@lDHdAj@zLFrBJzGvBh]LhFGlFwBPc@NmAr@s@t@YJ_Id@sBl@y@JQL_AZQ?yGxBwA\\vA]xGyBP?~@[PMx@KrBm@~He@XKr@u@lAs@b@OjBOkBNc@NmAr@s@t@YJGh@g@bA_@pA_@lBSvBKlDoDe@AnQyK_AMdFrBn@r@P|FTvFHC{BB_AdAwH`@{E@_AF_@R{DNw@Vu@b@u@`@c@b@Qh@Kj@APwEHwG?{BKuDwBi]K{GGsBk@{LIeAq@mDmBsI{A}Ia@BECCIC_@GMM?CL@dAALe@d@I?g@i@r@h@b@e@@MAeABML?FLB^BHDB`@CSmAi@}Fw@eMwAi[IaCUyOW}F}T`_@_FbIeAzAiBcp@YHoDzFUVg@R_@H{@Ig@QqDaE]Iq@K[Bg@b@SZm@xBUf@o@l@IFc@WuBYg@?sALbAiIHqAEeAQ}LQqHcD}^i@yGiDk\\IoACiAG?GEIO?WDUOa@mEwl@dVaOeEiIOSg@[WYUcAGy@QYMi@MaAG}@?eADaAFa@Ri@HPJ`ADbA@~@I~DFx@TbAVXf@ZNR~G~MR[@_@V^I~@?fAf@h[fKyJf@s@Xu@DYN{HZwBd@cCBU[wBGiBBw@f@mFAa@LY"
+    },
+    "map_urls": {
+      "url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5S2CKCOVC7LKUJQKBKDM2YPF5PROFCXJKKFMTNLKUEBXGUKFKNAS5VDUTFNNQSH7OYP7Q47OBYXWKGSBNXD3EMGDGZANWXYIBIYBXBI=",
+      "retina_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6T4JPPBAM253JN22RHJE5VHXCQMILSN5Z7CPW5SP6YONGYUVRQSSQYWYI7RHGROKVABB3RC66NWXDNLXF7EACTMZ4MDXBXAGRF5RXHA=",
+      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/6T4JPPBAM253JN22RHJE5VHXCQMILSN5Z7CPW5SP6YONGYUVRQSSQYWYI7RHGROKVABB3RC66NWXDNLXF7EACTMZ4MDXBXAGRF5RXHA=",
+      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/5FR6CJPNHFIHCEICEG5AM4L733GEME7HP6CLWFQX54JNUK5ZULHIHFMLAGIQXNENZDGFKNEZ3TJ7BPKXVUFDHAM4ZXE5U55U55YEMSA="
+    },
+    "name": "Hillz Alt West",
+    "private": false,
+    "resource_state": 3,
+    "starred": true,
+    "sub_type": 1,
+    "created_at": "2024-12-27T21:53:57Z",
+    "updated_at": "2024-12-27T21:53:56Z",
+    "timestamp": 1735336437,
+    "type": 1,
+    "estimated_moving_time": 4867,
+    "waypoints": [],
+    "segments": []
+  },
+  "club": {
+    "id": 1304090,
+    "resource_state": 3,
+    "name": "Hillz",
+    "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34538965/1/medium.jpg",
+    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34538965/1/large.jpg",
+    "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34539058/1/large.jpg",
+    "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34539058/1/small.jpg",
+    "activity_types": [
+      "Handcycle",
+      "EBikeRide",
+      "VirtualRide",
+      "Velomobile",
+      "Ride"
+    ],
+    "activity_types_icon": "sports_bike_normal",
+    "dimensions": [
+      "distance",
+      "num_activities",
+      "best_activities_distance",
+      "velocity",
+      "elev_gain",
+      "moving_time"
+    ],
+    "sport_type": "cycling",
+    "localized_sport_type": "Cycling",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "country": "United Kingdom",
+    "private": false,
+    "member_count": 101,
+    "featured": false,
+    "verified": false,
+    "url": "hillz",
+    "membership": "member",
+    "admin": true,
+    "owner": true,
+    "description": "Meet outside toppings in edinburgh for a 6:15 pm departure on wednesday evenings",
+    "club_type": "casual_club",
+    "following_count": 13,
+    "website": null
+  },
+  "segmentsInOrder": [
+    "3719576",
+    "38484944",
+    "30773575",
+    "10807547",
+    "6492678",
+    "17811329",
+    "26566566",
+    "12916364",
+    "1118197",
+    "38481736",
+    "38481675",
+    "5714095",
+    "12700535",
+    "3504020",
+    "1631332"
+  ],
+  "segments": {
+    "1118197": {
+      "segment": {
+        "id": 1118197,
+        "resource_state": 3,
+        "name": "Kaimes Road climb",
+        "activity_type": "Ride",
+        "distance": 697.362,
+        "average_grade": 9.3,
+        "maximum_grade": 12.5,
+        "elevation_high": 116.6,
+        "elevation_low": 51.6,
+        "start_latlng": [
+          55.941993742491526,
+          -3.272932659414083
+        ],
+        "end_latlng": [
+          55.94808971916797,
+          -3.275073867865155
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VLMV6DE363NF67E32YEW5DT5GMUXERZ3TTKKX3KC7DPZMHGKTP7H7TJLZIPEZIQYUO36J2ZY7HKLMAYGLWAIBQY=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/VLMV6DE363NF67E32YEW5DT5GMUXERZ3TTKKX3KC7DPZMHGKTP7H7TJLZIPEZIQYUO36J2ZY7HKLMAYGLWAIBQY=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4FZJLK3ESHQMEO55QXU3CSZ4XUR2QZ6MQ54QPDRXP63UVZ446YCFTMBWY4B6JKI6KLDWT7IDU3IMPR4Q7BBJLDQ="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "City of Edinburgh",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-03-21T21:49:51Z",
+        "updated_at": "2021-05-20T08:02:09Z",
+        "total_elevation_gain": 65.0146,
+        "map": {
+          "id": "s1118197",
+          "polyline": "mdmtIzf~RaAD_@Fa@Na@R}@v@[Zm@@wBX{@Be@?oATe@?KBa@T}@Rw@\\SBcAZc@H_@NQBSFOJs@V_AVO@SJw@R",
+          "resource_state": 3
+        },
+        "effort_count": 12819,
+        "athlete_count": 1050,
+        "star_count": 133,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 161,
+          "pr_date": "2024-11-05",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 12832232926,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "1:38",
+          "qom": "2:22",
+          "overall": "1:38",
+          "destination": {
+            "href": "strava://segments/1118197/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 14500194,
+          "title": "Andy Moore 🚴‍♂️",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/14500194/9546643/1/large.jpg",
+          "effort_description": "10 efforts in the last 90 days",
+          "effort_count": "10",
+          "effort_counts": {
+            "overall": "10 efforts",
+            "female": "4 efforts"
+          },
+          "destination": "strava://segments/1118197/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "1631332": {
+      "segment": {
+        "id": 1631332,
+        "resource_state": 3,
+        "name": "Bells Brae",
+        "activity_type": "Ride",
+        "distance": 171.874,
+        "average_grade": 7.9,
+        "maximum_grade": 10.3,
+        "elevation_high": 60.1,
+        "elevation_low": 46.6,
+        "start_latlng": [
+          55.95236921,
+          -3.21641804
+        ],
+        "end_latlng": [
+          55.95221522,
+          -3.2138323
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SLWNQ5NKNW42MVLEI3U4QWN2J45KZGGR2374GQTYUL6TM57OY3ZPR6Q73OUPXQR5ZYXUEIL4TMNKBFOXFQBWZUY=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SLWNQ5NKNW42MVLEI3U4QWN2J45KZGGR2374GQTYUL6TM57OY3ZPR6Q73OUPXQR5ZYXUEIL4TMNKBFOXFQBWZUY=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/56W2RO7FD5TGFI4O6U6DFU4PWS6WH6VNZHE5POL4GUX2WMD5Z74IZOPSEOIMB3T4YAN3GLVJZR5MZZQKVA2FABY="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "City of Edinburgh",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-06-25T18:24:33Z",
+        "updated_at": "2021-05-19T08:02:04Z",
+        "total_elevation_gain": 13.5055,
+        "map": {
+          "id": "s1631332",
+          "polyline": "geotIresRB[Gs@Aq@UcDLmAJe@Da@Pg@F_@",
+          "resource_state": 3
+        },
+        "effort_count": 6031,
+        "athlete_count": 2010,
+        "star_count": 15,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 36,
+          "pr_date": "2024-11-05",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 12832232926,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "15s",
+          "qom": "22s",
+          "overall": "15s",
+          "destination": {
+            "href": "strava://segments/1631332/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8465094,
+          "title": "Alejandro Velasquez",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8465094/8604793/6/large.jpg",
+          "effort_description": "3 efforts in the last 90 days",
+          "effort_count": "3",
+          "effort_counts": {
+            "overall": "3 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/1631332/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "3504020": {
+      "segment": {
+        "id": 3504020,
+        "resource_state": 3,
+        "name": "Dean park ascent",
+        "activity_type": "Ride",
+        "distance": 255.531,
+        "average_grade": 6.8,
+        "maximum_grade": 9.7,
+        "elevation_high": 51.2,
+        "elevation_low": 33.8,
+        "start_latlng": [
+          55.957274,
+          -3.213924
+        ],
+        "end_latlng": [
+          55.955496,
+          -3.216472
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FHWWG6I7KL7DNWPYZ23EM4UL5BI2IYG3GHVLQLJQS7ML6VIHMY226J4X3TPGARIOA5BBHEBAMLG33LBAMJT24SQ=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/FHWWG6I7KL7DNWPYZ23EM4UL5BI2IYG3GHVLQLJQS7ML6VIHMY226J4X3TPGARIOA5BBHEBAMLG33LBAMJT24SQ=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TDXA66T4GIZCVVZDWZXZKF4LBUDGEMQYQVGLB33PQMH7P2WWAC2DAZY24RFGDJMURJW7FUBNSOHEXG527UY3STA="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "City of Edinburgh",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-02-25T21:53:22Z",
+        "updated_at": "2021-05-18T08:02:59Z",
+        "total_elevation_gain": 16.9422,
+        "map": {
+          "id": "s3504020",
+          "polyline": "}cptI`vrRx@l@PTp@lAvBpEv@hAt@nA",
+          "resource_state": 3
+        },
+        "effort_count": 6299,
+        "athlete_count": 1305,
+        "star_count": 4,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 41,
+          "pr_date": "2025-01-28",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13478779077,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 9
+        },
+        "xoms": {
+          "kom": "29s",
+          "qom": "42s",
+          "overall": "29s",
+          "destination": {
+            "href": "strava://segments/3504020/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 63621156,
+          "title": "John Hancock",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/63621156/19196636/7/large.jpg",
+          "effort_description": "21 efforts in the last 90 days",
+          "effort_count": "21",
+          "effort_counts": {
+            "overall": "21 efforts",
+            "female": "3 efforts"
+          },
+          "destination": "strava://segments/3504020/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "3719576": {
+      "segment": {
+        "id": 3719576,
+        "resource_state": 3,
+        "name": "Calton Hill",
+        "activity_type": "Ride",
+        "distance": 469.1,
+        "average_grade": 4.3,
+        "maximum_grade": 12.1,
+        "elevation_high": 101,
+        "elevation_low": 80.2,
+        "start_latlng": [
+          55.953751942142844,
+          -3.1820679176598787
+        ],
+        "end_latlng": [
+          55.95509396865964,
+          -3.18256295286119
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODFBA7FD7PYBC66DI3XZB3R6O7ODPX4B2PWYBLZM7Z4HNDZYI2V34LNFHERGDZ6WAQD5TJFU3NLEA6JRQFZ5FGA=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODFBA7FD7PYBC66DI3XZB3R6O7ODPX4B2PWYBLZM7Z4HNDZYI2V34LNFHERGDZ6WAQD5TJFU3NLEA6JRQFZ5FGA=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOK3PAISHSGEWC6GABJBJBRETLBDJSKEQB4E6FNBCVSPYVFYZIWNOK4O3JWUT7VEEI5LRUKAV5KG466EUJR7IDY="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-03-31T14:34:32Z",
+        "updated_at": "2021-05-20T08:02:27Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s3719576",
+          "polyline": "}motI|nlROsFKuAWmB]cBOi@k@CECcApDs@nBM`AHfHBd@",
+          "resource_state": 3
+        },
+        "effort_count": 7955,
+        "athlete_count": 1702,
+        "star_count": 22,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 73,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 8
+        },
+        "xoms": {
+          "kom": "50s",
+          "qom": "1:13",
+          "overall": "50s",
+          "destination": {
+            "href": "strava://segments/3719576/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1535637,
+          "title": "Graham Cottingham",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1535637/673455/5/large.jpg",
+          "effort_description": "12 efforts in the last 90 days",
+          "effort_count": "12",
+          "effort_counts": {
+            "overall": "12 efforts",
+            "female": "7 efforts"
+          },
+          "destination": "strava://segments/3719576/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "5714095": {
+      "segment": {
+        "id": 5714095,
+        "resource_state": 3,
+        "name": "Craigleith Cresent Northbound",
+        "activity_type": "Ride",
+        "distance": 562.8,
+        "average_grade": -1,
+        "maximum_grade": 12.9,
+        "elevation_high": 37.6,
+        "elevation_low": 19.4,
+        "start_latlng": [
+          55.951128,
+          -3.243369
+        ],
+        "end_latlng": [
+          55.955427,
+          -3.244838
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B5XNR2NFE4O2IBSEA7PUJPT4QTG2IOZF7XQSL3WRMTR7MGNA2PI4BZJL6IOIDFLBGMQX4FZ3OFKR7NMUM5M5AZI6",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B5XNR2NFE4O2IBSEA7PUJPT4QTG2IOZF7XQSL3WRMTR7MGNA2PI4BZJL6IOIDFLBGMQX4FZ3OFKR7NMUM5M5AZI6",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ONPL4LX2IMWKVA6TR7SBGX2UFRJ2I6PTP7SADV2UFZI6P5KBBHAOCZFTJ56J46YBVX62UZ7TMAYATWZ44ACRNVHE"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-10-07T17:56:30Z",
+        "updated_at": "2021-05-19T08:02:36Z",
+        "total_elevation_gain": 18.4,
+        "map": {
+          "id": "s5714095",
+          "polyline": "o}ntI`nxRMNsBhDg@n@k@Zo@HU?UGUKUQwAcB{AyAUMUIUAUBUFQNQROVw@hC[h@MNQJOBc@G",
+          "resource_state": 3
+        },
+        "effort_count": 2516,
+        "athlete_count": 499,
+        "star_count": 6,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 50,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "37s",
+          "qom": "38s",
+          "overall": "37s",
+          "destination": {
+            "href": "strava://segments/5714095/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1535637,
+          "title": "Graham Cottingham",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1535637/673455/5/large.jpg",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/5714095/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "6492678": {
+      "segment": {
+        "id": 6492678,
+        "resource_state": 3,
+        "name": "Blink three times",
+        "activity_type": "Ride",
+        "distance": 366.6,
+        "average_grade": 5,
+        "maximum_grade": 11.2,
+        "elevation_high": 65.8,
+        "elevation_low": 47.6,
+        "start_latlng": [
+          55.954551,
+          -3.234717
+        ],
+        "end_latlng": [
+          55.952189,
+          -3.233521
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J4NFD5SK74M3TON2VERTNZPT5EJABIABZZIRLNTPTMJ247OROCWQHGC5MFIVAOD6VIPWMOJARP6IURTYIJQLXSI=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/J4NFD5SK74M3TON2VERTNZPT5EJABIABZZIRLNTPTMJ247OROCWQHGC5MFIVAOD6VIPWMOJARP6IURTYIJQLXSI=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O3UKIG4OCYBW53BLLOP3SXKOJXZN2FOHCFQYDW3FFZ5QUW3PTLPSSW373CDA5JRAO7MNJGYSIP3RMGNLKMKVVOA="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2014-01-21T21:38:24Z",
+        "updated_at": "2021-05-15T02:14:35Z",
+        "total_elevation_gain": 18.2,
+        "map": {
+          "id": "s6492678",
+          "polyline": "}rotI~wvRd@~BTl@NRXVd@FPAPIX[d@}@Po@RaATaBH[Tc@j@}@NM~@EPC",
+          "resource_state": 3
+        },
+        "effort_count": 7838,
+        "athlete_count": 1133,
+        "star_count": 8,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 44,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "34s",
+          "qom": "34s",
+          "overall": "34s",
+          "destination": {
+            "href": "strava://segments/6492678/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8090448,
+          "title": "Joe L-W",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8090448/6476382/3/large.jpg",
+          "effort_description": "26 efforts in the last 90 days",
+          "effort_count": "26",
+          "effort_counts": {
+            "overall": "26 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/6492678/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "10807547": {
+      "segment": {
+        "id": 10807547,
+        "resource_state": 3,
+        "name": "Dean Path climb",
+        "activity_type": "Ride",
+        "distance": 357.3,
+        "average_grade": 2.1,
+        "maximum_grade": 6.8,
+        "elevation_high": 53.2,
+        "elevation_low": 40.7,
+        "start_latlng": [
+          55.952349,
+          -3.216685
+        ],
+        "end_latlng": [
+          55.954061,
+          -3.220988
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XQMKXJRAGQT2FN2KC5M4K7GOU74EM7IUGL63WOQJRMZCFNFJWTJIHS3KTCEMRCP6RLUF6OHG5W4MHAUYAJT7DFFM",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XQMKXJRAGQT2FN2KC5M4K7GOU74EM7IUGL63WOQJRMZCFNFJWTJIHS3KTCEMRCP6RLUF6OHG5W4MHAUYAJT7DFFM",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/W6FUFVD4U4RSBFDHF5R5EV53X6S2RFZM7YC2QQUIHFR4GPTJJ5VNSNP64F6B62Q6KENZMLWJVGRSX5WAIZFBHPEQ"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-11-02T20:40:59Z",
+        "updated_at": "2021-05-15T02:17:12Z",
+        "total_elevation_gain": 12.5,
+        "map": {
+          "id": "s10807547",
+          "polyline": "ceotIhgsRu@tEK~D]~Do@fAk@d@q@t@iB`B",
+          "resource_state": 3
+        },
+        "effort_count": 4742,
+        "athlete_count": 1240,
+        "star_count": 5,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 49,
+          "pr_date": "2025-01-21",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13417444371,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 7
+        },
+        "xoms": {
+          "kom": "33s",
+          "qom": "44s",
+          "overall": "33s",
+          "destination": {
+            "href": "strava://segments/10807547/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8465094,
+          "title": "Alejandro Velasquez",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8465094/8604793/6/large.jpg",
+          "effort_description": "3 efforts in the last 90 days",
+          "effort_count": "3",
+          "effort_counts": {
+            "overall": "3 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/10807547/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "12700535": {
+      "segment": {
+        "id": 12700535,
+        "resource_state": 3,
+        "name": "Molenberg",
+        "activity_type": "Ride",
+        "distance": 414.7,
+        "average_grade": 5.3,
+        "maximum_grade": 11,
+        "elevation_high": 50.2,
+        "elevation_low": 28.2,
+        "start_latlng": [
+          55.959353,
+          -3.218484
+        ],
+        "end_latlng": [
+          55.955995,
+          -3.215986
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MOLH7WK5NBDGHQNFM7LY5LTF2UXDMDHIS6S5YSWM3N4PTA27VPRZ7RM4HTCGMGVJKDSO5GE5ZQHAJN65DJWZEV2G",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MOLH7WK5NBDGHQNFM7LY5LTF2UXDMDHIS6S5YSWM3N4PTA27VPRZ7RM4HTCGMGVJKDSO5GE5ZQHAJN65DJWZEV2G",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/WUA55YVTXU6ED4IEXFQ7NYONRSMNRHKIGD6FLHXKGER6MYIQTN333TEJ5OVBA5PD6S5GO6RFFGYTPNHKH3TVNFWY"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-07-23T19:29:33Z",
+        "updated_at": "2021-05-20T08:03:54Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s12700535",
+          "polyline": "}pptIprsR`Ag@jA{@~@k@dAs@z@g@^Ol@]fAw@lBkALGb@]RKHSCO",
+          "resource_state": 3
+        },
+        "effort_count": 6968,
+        "athlete_count": 1224,
+        "star_count": 11,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 63,
+          "pr_date": "2024-04-16",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 11213155700,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 10
+        },
+        "xoms": {
+          "kom": "41s",
+          "qom": "49s",
+          "overall": "41s",
+          "destination": {
+            "href": "strava://segments/12700535/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8465094,
+          "title": "Alejandro Velasquez",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8465094/8604793/6/large.jpg",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/12700535/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "12916364": {
+      "segment": {
+        "id": 12916364,
+        "resource_state": 3,
+        "name": "Mont Belmonteaux ",
+        "activity_type": "Ride",
+        "distance": 387.5,
+        "average_grade": 6.2,
+        "maximum_grade": 22.5,
+        "elevation_high": 72.6,
+        "elevation_low": 46.4,
+        "start_latlng": [
+          55.94513,
+          -3.251374
+        ],
+        "end_latlng": [
+          55.945674,
+          -3.256291
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/STI3F6JT2KKFXIXMKU5V2DJ2BW7H2XE7ZPCRQADDG4VVRTVWY45VIDIWAYBGLADFRJ7267ILL7UNVI37JHCTTEQ=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/STI3F6JT2KKFXIXMKU5V2DJ2BW7H2XE7ZPCRQADDG4VVRTVWY45VIDIWAYBGLADFRJ7267ILL7UNVI37JHCTTEQ=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JBGBLL4AI4ZKAIO4XI3KJSIUGCCFL4C6TPSVRKPKJRSAQZII6VED4FUSPVXWZXUHOKHOT2VGUBVCXTQSDUQTT4Y="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-08-16T08:13:40Z",
+        "updated_at": "2021-05-15T02:18:20Z",
+        "total_elevation_gain": 26.2,
+        "map": {
+          "id": "s12916364",
+          "polyline": "axmtIb`zRSXQLO\\EDWn@K^IJIXIzAGTC^GP?p@Q~A?P@JAJNv@DFDl@P|@JjAX`B@r@EZMVSLHY",
+          "resource_state": 3
+        },
+        "effort_count": 831,
+        "athlete_count": 209,
+        "star_count": 6,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 57,
+          "pr_date": "2024-11-05",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 12832232926,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "38s",
+          "qom": "1:01",
+          "overall": "38s",
+          "destination": {
+            "href": "strava://segments/12916364/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8465094,
+          "title": "Alejandro Velasquez",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8465094/8604793/6/large.jpg",
+          "effort_description": "3 efforts in the last 90 days",
+          "effort_count": "3",
+          "effort_counts": {
+            "overall": "3 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/12916364/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "17811329": {
+      "segment": {
+        "id": 17811329,
+        "resource_state": 3,
+        "name": "Garscube Climb",
+        "activity_type": "Ride",
+        "distance": 671.3,
+        "average_grade": 2.9,
+        "maximum_grade": 19.9,
+        "elevation_high": 68.5,
+        "elevation_low": 46,
+        "start_latlng": [
+          55.94618,
+          -3.236232
+        ],
+        "end_latlng": [
+          55.951347,
+          -3.23767
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V3FE7IXWEKWLL63SS7GZVSWEO5ZMEO2T3OMFKGLRKSCW6LIOZ2F33YMVVX5AXEGKG42GXEENL2SIONNS772BJWI=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/V3FE7IXWEKWLL63SS7GZVSWEO5ZMEO2T3OMFKGLRKSCW6LIOZ2F33YMVVX5AXEGKG42GXEENL2SIONNS772BJWI=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SKHLF54DVOMSA7M2WTGP3CZFYIW4JDDK7Q4MM46BITUQKUSWHENUCZXWGRNNPVUS4CRVZIHH5VQOHXASCWSUHPY="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2018-05-30T12:30:52Z",
+        "updated_at": "2021-05-17T08:07:35Z",
+        "total_elevation_gain": 22.5,
+        "map": {
+          "id": "s17811329",
+          "polyline": "s~mtInawR?QWsAq@w@EKMIGDM@]`ASBQGaAy@w@{@m@Wu@SI?g@\\qAr@uAnA_Aj@o@r@iBvAgApAO\\w@t@GLe@^",
+          "resource_state": 3
+        },
+        "effort_count": 3092,
+        "athlete_count": 698,
+        "star_count": 4,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 106,
+          "pr_date": "2024-12-10",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13088534808,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "1:03",
+          "qom": "1:37",
+          "overall": "1:03",
+          "destination": {
+            "href": "strava://segments/17811329/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8090448,
+          "title": "Joe L-W",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8090448/6476382/3/large.jpg",
+          "effort_description": "27 efforts in the last 90 days",
+          "effort_count": "27",
+          "effort_counts": {
+            "overall": "27 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/17811329/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "26566566": {
+      "segment": {
+        "id": 26566566,
+        "resource_state": 3,
+        "name": "Murrayfield Gardens climb",
+        "activity_type": "Ride",
+        "distance": 403.1,
+        "average_grade": 4.9,
+        "maximum_grade": 7.1,
+        "elevation_high": 69.3,
+        "elevation_low": 49.5,
+        "start_latlng": [
+          55.946149,
+          -3.237738
+        ],
+        "end_latlng": [
+          55.948732,
+          -3.242066
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3CIXGZ53V2N3TB54B45FGTJ55RCAPP5IU27SHUDLMM4XCK5SNNH5LPHDWQMOUXUYUVFNMZRPZEOVYHFHTNTRGKQ=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3CIXGZ53V2N3TB54B45FGTJ55RCAPP5IU27SHUDLMM4XCK5SNNH5LPHDWQMOUXUYUVFNMZRPZEOVYHFHTNTRGKQ=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SYHKNIZZTE2NQL7W2DAU5LXVSNJICPWPZVJR5PXSLGCTFTKN4H5TNVY3GRI5GVHDRTLRV34STBG7QWT7GNSRT3I="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2020-11-27T20:18:46Z",
+        "updated_at": "2021-05-17T08:09:11Z",
+        "total_elevation_gain": 19.8,
+        "map": {
+          "id": "s26566566",
+          "polyline": "k~mtIzjwRE`AGl@GZMXw@tAgEvGw@tAsAtBgArBML",
+          "resource_state": 3
+        },
+        "effort_count": 1151,
+        "athlete_count": 268,
+        "star_count": 5,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 54,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "39s",
+          "qom": "53s",
+          "overall": "39s",
+          "destination": {
+            "href": "strava://segments/26566566/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 8465094,
+          "title": "Alejandro Velasquez",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/8465094/8604793/6/large.jpg",
+          "effort_description": "3 efforts in the last 90 days",
+          "effort_count": "3",
+          "effort_counts": {
+            "overall": "3 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/26566566/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "30773575": {
+      "segment": {
+        "id": 30773575,
+        "resource_state": 3,
+        "name": "Gloucester St.",
+        "activity_type": "Ride",
+        "distance": 313.3,
+        "average_grade": 6.8,
+        "maximum_grade": 20.8,
+        "elevation_high": 36.4,
+        "elevation_low": 15,
+        "start_latlng": [
+          55.957395,
+          -3.207936
+        ],
+        "end_latlng": [
+          55.954768,
+          -3.206184
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/37RFEXHSVJUOOIJSMHPHYYQWU3RHE4ZBUKNUPKTYZX3ICEFFBCLSTYCXCHOJSLGOOTPAON6RGTGXPS4HNTT7ZNQO",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/37RFEXHSVJUOOIJSMHPHYYQWU3RHE4ZBUKNUPKTYZX3ICEFFBCLSTYCXCHOJSLGOOTPAON6RGTGXPS4HNTT7ZNQO",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GXZYQS37NW2NKQZXHCF5IJ2Y2J6NEPTEKDTAAQRJKMGBN52QM2WACAQYOVMBFQ3DBHZKVLIEYIGTDJKMD72KJPH3"
+        },
+        "climb_category": 0,
+        "city": "Stockbridge",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2022-01-11T22:11:29Z",
+        "updated_at": "2022-01-11T22:11:30Z",
+        "total_elevation_gain": 21.4,
+        "map": {
+          "id": "s30773575",
+          "polyline": "udptIrpqRd@O`@Gd@Mp@]LM\\OrAgApAw@v@o@z@k@f@_@",
+          "resource_state": 3
+        },
+        "effort_count": 5080,
+        "athlete_count": 914,
+        "star_count": 2,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 63,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 5
+        },
+        "xoms": {
+          "kom": "40s",
+          "qom": "58s",
+          "overall": "40s",
+          "destination": {
+            "href": "strava://segments/30773575/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 19762516,
+          "title": "Richard Amos",
+          "profile": "https://graph.facebook.com/10155164177069887/picture?height=256&width=256",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/30773575/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "38481675": {
+      "segment": {
+        "id": 38481675,
+        "resource_state": 3,
+        "name": "Murrayfield Climb",
+        "activity_type": "Ride",
+        "distance": 618.8,
+        "average_grade": 4.7,
+        "maximum_grade": 7.3,
+        "elevation_high": 70.2,
+        "elevation_low": 41.4,
+        "start_latlng": [
+          55.945502,
+          -3.24391
+        ],
+        "end_latlng": [
+          55.949779,
+          -3.250236
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JXXXR7OQ5CAVHNFIW4GCL254QSEWSCIAEHBCMCAD7UVJZUKLBG77LK3T5QPPU5AC2VNRKLB7KFVWHEGPOEF3KQI=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JXXXR7OQ5CAVHNFIW4GCL254QSEWSCIAEHBCMCAD7UVJZUKLBG77LK3T5QPPU5AC2VNRKLB7KFVWHEGPOEF3KQI=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7EWHGW3SCXAERRIACAIIIOFK3VJAPNFDU6YTP64VG3KYFF6KR7WTAIYG5EBU2D3WKRXX2RCLE5HJIGEUGI3YK4A="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-01-21T22:15:31Z",
+        "updated_at": "2025-01-21T22:15:31Z",
+        "total_elevation_gain": 28.8,
+        "map": {
+          "id": "s38481675",
+          "polyline": "kzmtIlqxROR_BlCyIfO}CbFa@j@_CfEkAnB",
+          "resource_state": 3
+        },
+        "effort_count": 6727,
+        "athlete_count": 1702,
+        "star_count": 0,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 93,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "1:02",
+          "qom": "1:08",
+          "overall": "1:02",
+          "destination": {
+            "href": "strava://segments/38481675/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 10237705,
+          "title": "magic sandlan",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/10237705/12408692/1/large.jpg",
+          "effort_description": "2 efforts in the last 90 days",
+          "effort_count": "2",
+          "effort_counts": {
+            "overall": "2 efforts",
+            "female": "1 effort"
+          },
+          "destination": "strava://segments/38481675/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "38481736": {
+      "segment": {
+        "id": 38481741,
+        "resource_state": 3,
+        "name": "OLD VERSION - Kaimes Ladder",
+        "activity_type": "Ride",
+        "distance": 679.6,
+        "average_grade": 3.2,
+        "maximum_grade": 23.5,
+        "elevation_high": 92.8,
+        "elevation_low": 64.8,
+        "start_latlng": [
+          55.943347,
+          -3.273742
+        ],
+        "end_latlng": [
+          55.946953,
+          -3.279083
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3FCMA72TUYLU32MY6H6JYO4QUYW7OAR2IACMUGMEZW45YHXW4KGG56D77G73N2RWGAKILYZU3F6UK5AYUXSSW6I=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3FCMA72TUYLU32MY6H6JYO4QUYW7OAR2IACMUGMEZW45YHXW4KGG56D77G73N2RWGAKILYZU3F6UK5AYUXSSW6I=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O3W44KE2MPO6VMEHCM5ID6MLC4J3TLDKGC3JK5ILCHLZ4RL7ASJSM2EUPZLGVOR4HDY5BT34PG2ZZ2G3APARRHY="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-01-21T22:37:13Z",
+        "updated_at": "2025-02-17T18:02:14Z",
+        "total_elevation_gain": 30.6,
+        "map": {
+          "id": "s38481741",
+          "polyline": "{lmtI|k~REZi@hASr@m@rCGZG|@E|@A|@Gb@GL]LG?a@E_@K[AIDGFKTC^@bAAlJARSj@GB]CYIs@G]KW@e@Km@?q@EYMk@AEB",
+          "resource_state": 3
+        },
+        "effort_count": -898,
+        "athlete_count": 279,
+        "star_count": 0,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": null,
+          "pr_date": null,
+          "pr_visibility": null,
+          "pr_activity_id": null,
+          "pr_activity_visibility": null,
+          "effort_count": 0
+        },
+        "xoms": {
+          "kom": "1:42",
+          "qom": "2:00",
+          "overall": "1:42",
+          "destination": {
+            "href": "strava://segments/38481741/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": null
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    },
+    "38484944": {
+      "segment": {
+        "id": 38484944,
+        "resource_state": 3,
+        "name": "Hillz: Dublin St",
+        "activity_type": "Ride",
+        "distance": 519.1,
+        "average_grade": 5.1,
+        "maximum_grade": 21.3,
+        "elevation_high": 48.8,
+        "elevation_low": 22.4,
+        "start_latlng": [
+          55.960409,
+          -3.195286
+        ],
+        "end_latlng": [
+          55.956235,
+          -3.193066
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2I4GSLADWDVMLF6JZ7U6YMCTSZGSO6GWA7KEQCT5OXQD45DSG7RO3CKDYUJKYEDOD7ZMLMLN4SYKWLLYSLZMP3Q=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2I4GSLADWDVMLF6JZ7U6YMCTSZGSO6GWA7KEQCT5OXQD45DSG7RO3CKDYUJKYEDOD7ZMLMLN4SYKWLLYSLZMP3Q=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IGIRHKHBLOCOQK6CQWFZLRAVRN64BCTMRNTYHR3HACDFCFS7EICTMIT62EVPK6ABAQ7YR2S2NLNMJZOYJXTBZWY="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-01-22T17:32:14Z",
+        "updated_at": "2025-01-22T17:32:14Z",
+        "total_elevation_gain": 26.4,
+        "map": {
+          "id": "s38484944",
+          "polyline": "owptIpaoRfBq@h@O|As@JWHcANm@Pa@FKRM^AVFHFZb@TPJBRAVKr@g@j@Mz@Yj@[XUd@Sb@Md@U",
+          "resource_state": 3
+        },
+        "effort_count": 14384,
+        "athlete_count": 3530,
+        "star_count": 1,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 84,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 4
+        },
+        "xoms": {
+          "kom": "1:03",
+          "qom": "1:29",
+          "overall": "1:03",
+          "destination": {
+            "href": "strava://segments/38484944/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 3419999,
+          "title": "Gavin Perry",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/3419999/27710094/1/large.jpg",
+          "effort_description": "11 efforts in the last 90 days",
+          "effort_count": "11",
+          "effort_counts": {
+            "overall": "11 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/38484944/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": []
+      }
+    }
+  }
+}
