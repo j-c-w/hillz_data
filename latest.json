@@ -105,7 +105,6 @@
     "26566566",
     "12916364",
     "1118197",
-    "38481736",
     "38481675",
     "5714095",
     "12700535",
@@ -3956,73 +3955,6 @@
             "overall_rank": 298
           }
         ]
-      }
-    },
-    "38481736": {
-      "segment": {
-        "id": 38481741,
-        "resource_state": 3,
-        "name": "OLD VERSION - Kaimes Ladder",
-        "activity_type": "Ride",
-        "distance": 679.6,
-        "average_grade": 3.2,
-        "maximum_grade": 23.5,
-        "elevation_high": 92.8,
-        "elevation_low": 64.8,
-        "start_latlng": [
-          55.943347,
-          -3.273742
-        ],
-        "end_latlng": [
-          55.946953,
-          -3.279083
-        ],
-        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3FCMA72TUYLU32MY6H6JYO4QUYW7OAR2IACMUGMEZW45YHXW4KGG56D77G73N2RWGAKILYZU3F6UK5AYUXSSW6I=",
-        "elevation_profiles": {
-          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/3FCMA72TUYLU32MY6H6JYO4QUYW7OAR2IACMUGMEZW45YHXW4KGG56D77G73N2RWGAKILYZU3F6UK5AYUXSSW6I=",
-          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/O3W44KE2MPO6VMEHCM5ID6MLC4J3TLDKGC3JK5ILCHLZ4RL7ASJSM2EUPZLGVOR4HDY5BT34PG2ZZ2G3APARRHY="
-        },
-        "climb_category": 0,
-        "city": null,
-        "state": "Scotland",
-        "country": "United Kingdom",
-        "private": false,
-        "hazardous": false,
-        "starred": false,
-        "created_at": "2025-01-21T22:37:13Z",
-        "updated_at": "2025-02-17T18:02:14Z",
-        "total_elevation_gain": 30.6,
-        "map": {
-          "id": "s38481741",
-          "polyline": "{lmtI|k~REZi@hASr@m@rCGZG|@E|@A|@Gb@GL]LG?a@E_@K[AIDGFKTC^@bAAlJARSj@GB]CYIs@G]KW@e@Km@?q@EYMk@AEB",
-          "resource_state": 3
-        },
-        "effort_count": -898,
-        "athlete_count": 279,
-        "star_count": 0,
-        "athlete_segment_stats": {
-          "pr_elapsed_time": null,
-          "pr_date": null,
-          "pr_visibility": null,
-          "pr_activity_id": null,
-          "pr_activity_visibility": null,
-          "effort_count": 0
-        },
-        "xoms": {
-          "kom": "1:42",
-          "qom": "2:00",
-          "overall": "1:42",
-          "destination": {
-            "href": "strava://segments/38481741/leaderboard",
-            "type": "overall",
-            "name": "All-Time"
-          }
-        },
-        "local_legend": null
-      },
-      "efforts": {
-        "women": [],
-        "men": []
       }
     },
     "38484944": {
