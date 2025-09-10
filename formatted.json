@@ -1,0 +1,4157 @@
+{
+  "title": "09 Sept",
+  "route": {
+    "athlete": {
+      "id": 14283998,
+      "username": "jackson_woodruff",
+      "resource_state": 2,
+      "firstname": "Jackson",
+      "lastname": "Woodruff",
+      "bio": "",
+      "city": "Edinburgh",
+      "state": "Scotland",
+      "country": "United Kingdom",
+      "sex": "M",
+      "premium": true,
+      "summit": true,
+      "created_at": "2016-04-02T12:00:21Z",
+      "updated_at": "2025-02-04T06:43:26Z",
+      "badge_type_id": 1,
+      "weight": 60,
+      "profile_medium": "https://graph.facebook.com/2327424074277771/picture?height=256&width=256",
+      "profile": "https://graph.facebook.com/2327424074277771/picture?height=256&width=256",
+      "friend": null,
+      "follower": null
+    },
+    "description": "",
+    "distance": 29798.610864050122,
+    "elevation_gain": 532.6651196664297,
+    "id": 3400853845763298300,
+    "id_str": "3400853845763298432",
+    "map": {
+      "id": "r3400853845763298432",
+      "summary_polyline": "eiptIb}lRbF{SZqc@bCFnBqElLp]h@rOmAzDkCmUaDtIZ~LUaNpC{HtAvD~@|OoCl[vA\\bEwC`@gTrJyDsJxDH}FpHaAqH`A?oEpGkDs@iFfFoGgBaGrFyJvFxKbLtE`S_JnDiz@xF_GyF~Fu@bWbEh@PzHdOfPzEiNvP_UdF~b@~YqZr@bDjJuJfHv[bBgAz@`GKlU`CLyArRtEn_@jEZvBbD_@be@^ce@wBcDkE[uEo_@sCjGeCnT|Bv@z@aGx@rIrByAcAvOlAoNw@gAxBoGyC{TsCjGeCnTuBbEcWbQUxMsOrFxC~j@cNnD_@}k@uP~BExQdFb^wM~IyGwEcQVyEk[uJxSwC}DQoN_Gs[TlKI_C}Cv@uA}Fg@hFew@rZyAqV_DeF~G_D|@sDfB|AfMoFgMnFgB}A}@rDqFrEcAeCcB^s@aDnBuEo[kTcKoL}Qwi@}TpKwXlXoE{@i@uJsEdd@t@z@e@bKhJrApCjWwOhDjAvVpSiGmCkI_KnD@xBeDi@h@rSdWuEcIi_@kOpC^xLdDh@AyB~JoDw@kIkOpC?fDxEs@KcC|HaC",
+      "resource_state": 3,
+      "polyline": "eiptIb}lRH?L]Be@FI@SN?Cp@Bq@LIJQp@cEtAuGJcAZqc@bCFbAwCj@y@fI~WdArDD@XCAv@`@vEJtCAlBY|As@|AQyBW{GUgCa@{Aa@eAGMIGKJw@tCmAxCE`@J`IBh@Jf@?j@?k@Kg@Ci@KaIDa@lAyCv@uCJKHFFL`@dA`@zATfCVzGPxBSj@Q~@YpBKxB?nCDt@_@POxAQ`@El@@l@RlA?LEXQNRLbANXC~@c@b@ETSXe@To@B[\\kSrJyDsJxDH}Fz@XnEcAd@We@VoEbA{@Y?oExAs@vDwBs@iFl@[JNB?n@e@Ey@~BcDgBaGnEmG\\q@Ce@HSHGNHDJ@ZGTn@bB`AlBl@`A|@dAv@r@z@j@h@VxC`AjBZvA?~@M~CqArDwBnA}@dAiAA@Vs@Jc@PmAJ}ABmA?uFFuC^{HFa@HCHBMk@Ac@\\sDLgBHkCGoFHgATcA^o@d@UhAY^Yr@aAs@`A_@XiAXe@T_@n@UbAIfAFnFIjCMfB]rD@b@Np@`ARf@Bb@OFMRIHFHT@PANSr@Eh@DxALt@LTl@|@hHnHlDxDrBiGfB_FlBaDnFsGx@{@lBiCp@cALf@dA`HjBvRd@|DnGqGnF}F~IaJr@bDjJuJfHv[bBgAz@`GJnAW|R`CLOtKInAKn@Ob@c@x@`@jAd@~ClCbXh@UPCZ?f@JjAh@r@~@v@bBJ?Br@ArFa@z[`@{[@sFCs@K?w@cBs@_AkAi@g@K[?QBi@TmCcXe@_Da@kAmAhBk@~AY`AOx@[jCyAhNtBv@F?DIt@wFFL`@RHT@^GjFT\\J?LMNc@PuAl@^FT@PCh@w@fEYhB?rCF?G??sCXiBv@gEBi@AQGUm@_@TkBPaAPa@~@_AqAoMe@_Da@kAmAhBk@~AY`AOx@[jCyAhNuBbEk@p@s@t@kA`AoJbGgFtCCJR`Gc@nDAZwCbA{JnDxC~j@]Ro@ZuK~B_@}k@uP~BMpCEbDDzDFfBd@nE~DrWaB`AiAbA]Py@XwC`Bq@n@IZg@MuE}D[KqEOY?sEr@k@WwAJSqA}@eDGa@_CqRS?MPe@jBWn@oCnEeCzGaAkAYe@{@kAIq@Ai@JkC?uBQqCIm@Qc@i@qBY_BIaAQ}DqAuHYk@KKKAW@@t@ZdCNnEI_Cu@PgAn@UCIEIMSaA[yCEKUGSlA?xBGRKLkD`BsBfA_@Lm@q@MEwBx@m@Xo@f@]PCPIP]M[Li@Hc`@vPeAyKF{@@}@AcACy@W_BY_Ae@y@q@w@g@g@EKJOrGoC?y@L_AL[`@]T?^D\\`@Rt@fMoFgMnFSu@]a@_@EU?a@\\MZM~@?x@qEjB_@fBg@g@Oc@Ky@IAqAd@GC[gCWYnBuE_AaBmCoBqBoAQ[uO_KS@SNO]]i@UUwAgAOKgBmBcA{Ak@s@eAqBo@{AqB_FmAeDWqA}@uCqE{OqA|@{ErCgJdDg@XeAx@wAtAgFdFs@x@mBjBc@t@}@~@KBkCjCUJoE{@?cIGSa@]w@nF[pDk@dN]jCu@pCt@z@e@bKnAZ~Af@xCN^?rBhP\\`FkOpCCRGBJnCn@bLNbEpSiGe@kA_AoCg@oB_GxB_Ct@H~AANEHI?UcAIOOAkBj@NpCNbEH|H`BWz@BrANP?jLgDtAi@sAoGi@aBe@kA_AoC{@gDIs@Y_FkOpCCRGBJnC^pGjBk@N@HNTbAH?DI@OI_B~Bu@~FyBSw@Is@Y_FkOpCCRGBJnChAKnCg@KcC`IuACk@"
+    },
+    "map_urls": {
+      "url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/KDYUEM5CCJCCI5FYPGYTDRYBCSR7VRY72WYXLKDGWWLDLEQJRYXV326DUWQOLE24R5PWUWKYJXMNU6U3U7CP6LHXJFPT5UAHM55KICY=",
+      "retina_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/GU7WUO55OBYSYV4X3H6UHHAYRWU3BZZHG7PIZEGEQ56ES2FBAUPV4NOP725QCZUXQ4LEPOB6WLUU6D35OU2VP76HQV7NJKHTLNU4HDY=",
+      "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/GU7WUO55OBYSYV4X3H6UHHAYRWU3BZZHG7PIZEGEQ56ES2FBAUPV4NOP725QCZUXQ4LEPOB6WLUU6D35OU2VP76HQV7NJKHTLNU4HDY=",
+      "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/maps/XE3OKR4L5Y4LPKHO3EK5FNPFISQ5Q5VXUYUY2WJCYM6BURID3OGYOBGZ22W7AB6RJRXW3CYSUSHLUPH7Y5GO5ZYT7DSI7LDVLBXDMDY="
+    },
+    "name": "Hillz: South+Trinity+OldTown",
+    "private": false,
+    "resource_state": 3,
+    "starred": true,
+    "sub_type": 1,
+    "created_at": "2025-09-10T13:39:02Z",
+    "updated_at": "2025-09-10T13:39:02Z",
+    "timestamp": 1757511542,
+    "type": 1,
+    "estimated_moving_time": 5482,
+    "waypoints": [],
+    "segments": []
+  },
+  "club": {
+    "id": 1304090,
+    "resource_state": 3,
+    "name": "Hillz",
+    "profile_medium": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34538965/1/medium.jpg",
+    "profile": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34538965/1/large.jpg",
+    "cover_photo": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34539058/1/large.jpg",
+    "cover_photo_small": "https://dgalywyr863hv.cloudfront.net/pictures/clubs/1304090/34539058/1/small.jpg",
+    "activity_types": [
+      "Handcycle",
+      "EBikeRide",
+      "VirtualRide",
+      "Velomobile",
+      "Ride"
+    ],
+    "activity_types_icon": "sports_bike_normal",
+    "dimensions": [
+      "distance",
+      "num_activities",
+      "best_activities_distance",
+      "velocity",
+      "elev_gain",
+      "moving_time"
+    ],
+    "sport_type": "cycling",
+    "localized_sport_type": "Cycling",
+    "city": "Edinburgh",
+    "state": "Scotland",
+    "country": "United Kingdom",
+    "private": false,
+    "member_count": 151,
+    "featured": false,
+    "verified": false,
+    "url": "hillz",
+    "membership": "member",
+    "admin": true,
+    "owner": true,
+    "description": "Meet outside toppings in edinburgh for a 6:15 pm departure on wednesday evenings",
+    "club_type": "casual_club",
+    "following_count": 15,
+    "website": ""
+  },
+  "segmentsInOrder": [
+    "3719576",
+    "1719151",
+    "10274277",
+    "39866111",
+    "8184895",
+    "13277792",
+    "10424816",
+    "31898261",
+    "1359934",
+    "38484944",
+    "3513021",
+    "13770554",
+    "9954052",
+    "4560893",
+    "10855724",
+    "28215943"
+  ],
+  "segments": {
+    "1359934": {
+      "segment": {
+        "id": 1359934,
+        "resource_state": 3,
+        "name": "Johnston Terrace Climb",
+        "activity_type": "Ride",
+        "distance": 506.87,
+        "average_grade": 4.1,
+        "maximum_grade": 8,
+        "elevation_high": 185.6,
+        "elevation_low": 164.8,
+        "start_latlng": [
+          55.94755981117487,
+          -3.2013054750859737
+        ],
+        "end_latlng": [
+          55.949119850993156,
+          -3.1942956056445837
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LWYVQKM4U6FQIWPYY75QFR2LCR5NPCANG6KUG4YQUXPCA54S3PXCHVTO5XGG644ORD7C6QWYKV2IRP2OR677XTQ6",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LWYVQKM4U6FQIWPYY75QFR2LCR5NPCANG6KUG4YQUXPCA54S3PXCHVTO5XGG644ORD7C6QWYKV2IRP2OR677XTQ6",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GUMBBI424J6FA2JNIOUU7D6OC4JDWRY3HJGZ2TDBSGHKOWF7OUG44C7DDQR767P7TYUTJV6YIU4LFV5XFDBNRWKW"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "City of Edinburgh",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-05-10T19:38:21Z",
+        "updated_at": "2021-05-20T08:02:11Z",
+        "total_elevation_gain": 20.8,
+        "map": {
+          "id": "s1359934",
+          "polyline": "ggntIdgpRKg@Cg@DkD?_AMaC]{B[iA[cBUgBMuCOsAg@_DYqASc@IEa@EGEKW",
+          "resource_state": 3
+        },
+        "effort_count": 14764,
+        "athlete_count": 3269,
+        "star_count": 24,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 62,
+          "pr_date": "2024-10-29",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 12776240598,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 12
+        },
+        "xoms": {
+          "kom": "42s",
+          "qom": "1:01",
+          "overall": "42s",
+          "destination": {
+            "href": "strava://segments/1359934/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 7766911,
+          "title": "Dag  Docherty",
+          "profile": "https://graph.facebook.com/500419188/picture?height=256&width=256",
+          "effort_description": "28 efforts in the last 90 days",
+          "effort_count": "28",
+          "effort_counts": {
+            "overall": "28 efforts",
+            "female": "7 efforts"
+          },
+          "destination": "strava://segments/1359934/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982997671742",
+            "average_speed_kph": 20.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 90,
+            "achievement": 1,
+            "overall_rank": 29
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Cal M",
+            "athlete_link": "/athletes/31752311",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "31752311",
+            "activity_id": "15755561404",
+            "segment_effort_id": "3400568757597441630",
+            "average_speed_kph": 35.8,
+            "average_hr": 175,
+            "average_power": 600,
+            "elapsed_time": 51,
+            "achievement": 2,
+            "overall_rank": 9
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275849138782",
+            "average_speed_kph": 33.8,
+            "average_hr": 149,
+            "average_power": null,
+            "elapsed_time": 54,
+            "achievement": 1,
+            "overall_rank": 20
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738270538334",
+            "average_speed_kph": 29,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 63,
+            "achievement": 1,
+            "overall_rank": 64
+          },
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015858983310",
+            "average_speed_kph": 23.1,
+            "average_hr": 180,
+            "average_power": 317,
+            "elapsed_time": 79,
+            "achievement": 1,
+            "overall_rank": 216
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845500803112",
+            "average_speed_kph": 22.3,
+            "average_hr": null,
+            "average_power": 343,
+            "elapsed_time": 82,
+            "achievement": 0,
+            "overall_rank": 181
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626641581096",
+            "average_speed_kph": 21.5,
+            "average_hr": 168,
+            "average_power": null,
+            "elapsed_time": 85,
+            "achievement": 1,
+            "overall_rank": 336
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624524754632",
+            "average_speed_kph": 21.5,
+            "average_hr": 156,
+            "average_power": 283,
+            "elapsed_time": 85,
+            "achievement": 0,
+            "overall_rank": 2
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646160357982",
+            "average_speed_kph": 21,
+            "average_hr": 120,
+            "average_power": null,
+            "elapsed_time": 87,
+            "achievement": 1,
+            "overall_rank": 380
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119047225150",
+            "average_speed_kph": 20.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 90,
+            "achievement": 1,
+            "overall_rank": 445
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910157128",
+            "average_speed_kph": 15,
+            "average_hr": 154,
+            "average_power": 174,
+            "elapsed_time": 122,
+            "achievement": 0,
+            "overall_rank": 499
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602190148296",
+            "average_speed_kph": 14.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 123,
+            "achievement": 0,
+            "overall_rank": 764
+          }
+        ]
+      }
+    },
+    "1719151": {
+      "segment": {
+        "id": 1719151,
+        "resource_state": 3,
+        "name": "New street climb",
+        "activity_type": "Ride",
+        "distance": 160.055,
+        "average_grade": 4.5,
+        "maximum_grade": 9.3,
+        "elevation_high": 72.8,
+        "elevation_low": 65.4,
+        "start_latlng": [
+          55.952538745477796,
+          -3.182918932288885
+        ],
+        "end_latlng": [
+          55.95114282332361,
+          -3.182391794398427
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4SCRKHKL3WLWOE5GHFHFPYH3OHD65HX4U6KY7E3MEVRPLHVLKHP56AOKT6OZLVE7RXXS44543EECOCF3XHAOQWDO",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/4SCRKHKL3WLWOE5GHFHFPYH3OHD65HX4U6KY7E3MEVRPLHVLKHP56AOKT6OZLVE7RXXS44543EECOCF3XHAOQWDO",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SMOQBASFJJ72OMPTQ3ZN3EAFXBVJ2676NLPHZLUMLBCYDEDU7GGAFZVEDZNQZ4I4JG3ZQCIHXITWLU4BFYCBQUNO"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "City of Edinburgh",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2012-07-09T21:09:54Z",
+        "updated_at": "2021-05-20T08:02:14Z",
+        "total_elevation_gain": 7.4,
+        "map": {
+          "id": "s1719151",
+          "polyline": "ifotIftlRL?lCa@RKVWlAa@",
+          "resource_state": 3
+        },
+        "effort_count": 12274,
+        "athlete_count": 2000,
+        "star_count": 17,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 19,
+          "pr_date": "2025-03-04",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13790534238,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 19
+        },
+        "xoms": {
+          "kom": "10s",
+          "qom": "16s",
+          "overall": "10s",
+          "destination": {
+            "href": "strava://segments/1719151/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 2090181,
+          "title": "Graham Ramage",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2090181/32364285/1/large.jpg",
+          "effort_description": "27 efforts in the last 90 days",
+          "effort_count": "27",
+          "effort_counts": {
+            "overall": "27 efforts",
+            "female": "22 efforts"
+          },
+          "destination": "strava://segments/1719151/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982997526334",
+            "average_speed_kph": 22.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 26,
+            "achievement": 1,
+            "overall_rank": 46
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015862094222",
+            "average_speed_kph": 32,
+            "average_hr": 148,
+            "average_power": 880,
+            "elapsed_time": 18,
+            "achievement": 0,
+            "overall_rank": 34
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275847571038",
+            "average_speed_kph": 30.3,
+            "average_hr": 141,
+            "average_power": null,
+            "elapsed_time": 19,
+            "achievement": 0,
+            "overall_rank": 13
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646161400414",
+            "average_speed_kph": 30.3,
+            "average_hr": 114,
+            "average_power": null,
+            "elapsed_time": 19,
+            "achievement": 1,
+            "overall_rank": 167
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624525343432",
+            "average_speed_kph": 28.8,
+            "average_hr": 148,
+            "average_power": 391,
+            "elapsed_time": 20,
+            "achievement": 0,
+            "overall_rank": 13
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602189792968",
+            "average_speed_kph": 26.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 22,
+            "achievement": 0,
+            "overall_rank": 241
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639434792",
+            "average_speed_kph": 26.2,
+            "average_hr": 142,
+            "average_power": null,
+            "elapsed_time": 22,
+            "achievement": 0,
+            "overall_rank": 241
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119048343358",
+            "average_speed_kph": 24,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 24,
+            "achievement": 1,
+            "overall_rank": 377
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950740037214",
+            "average_speed_kph": 22.2,
+            "average_hr": 154,
+            "average_power": 390,
+            "elapsed_time": 26,
+            "achievement": 0,
+            "overall_rank": 299
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607754679442654",
+            "average_speed_kph": 19.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 30,
+            "achievement": 0,
+            "overall_rank": 241
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845500676136",
+            "average_speed_kph": 16.5,
+            "average_hr": null,
+            "average_power": 401,
+            "elapsed_time": 35,
+            "achievement": 0,
+            "overall_rank": 51
+          }
+        ]
+      }
+    },
+    "3513021": {
+      "segment": {
+        "id": 3513021,
+        "resource_state": 3,
+        "name": "Claremont Clatter",
+        "activity_type": "Ride",
+        "distance": 542.909,
+        "average_grade": -1.7,
+        "maximum_grade": 2.9,
+        "elevation_high": 35,
+        "elevation_low": 24.7,
+        "start_latlng": [
+          55.96092224120931,
+          -3.193309307098296
+        ],
+        "end_latlng": [
+          55.96535325050191,
+          -3.189940452575591
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H6FW6P47IHY2NMCPIUYB3QL25JG5NWAP73MQPUP3SOOMZLNEEJOTZJDKUT2XHQWJPP4UNRXGWCECKXG4YCCCWSGW",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/H6FW6P47IHY2NMCPIUYB3QL25JG5NWAP73MQPUP3SOOMZLNEEJOTZJDKUT2XHQWJPP4UNRXGWCECKXG4YCCCWSGW",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/LGNOKOFR6DMILGWG3HTHX4QJ333PSGN4HLD65YEERMWP5R6IEITZ4FXWLP2HNK3NKV4PRS5VR6TQQSWP3ZH7WIYJ"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Midlothian",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-02-27T16:21:44Z",
+        "updated_at": "2021-05-20T08:02:25Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s3513021",
+          "polyline": "wzptIdunRKGWe@QU[YSKKMYOIMkA_Aw@s@UGe@Yw@]OYOOq@a@WUSGMMm@YEGICw@o@WKUQUYMCa@YICYUWGIGSIQCEB",
+          "resource_state": 3
+        },
+        "effort_count": 3916,
+        "athlete_count": 904,
+        "star_count": 7,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 61,
+          "pr_date": "2025-08-12",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 15437761208,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 8
+        },
+        "xoms": {
+          "kom": "42s",
+          "qom": "55s",
+          "overall": "42s",
+          "destination": {
+            "href": "strava://segments/3513021/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1406225,
+          "title": "Joe  Agnew",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1406225/30575964/4/large.jpg",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "3 efforts"
+          },
+          "destination": "strava://segments/3513021/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996817726",
+            "average_speed_kph": 22.7,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 86,
+            "achievement": 1,
+            "overall_rank": 30
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845504512040",
+            "average_speed_kph": 26.4,
+            "average_hr": null,
+            "average_power": 153,
+            "elapsed_time": 74,
+            "achievement": 0,
+            "overall_rank": 36
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602184808136",
+            "average_speed_kph": 25.7,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 76,
+            "achievement": 0,
+            "overall_rank": 24
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275851554398",
+            "average_speed_kph": 25.7,
+            "average_hr": 143,
+            "average_power": null,
+            "elapsed_time": 76,
+            "achievement": 0,
+            "overall_rank": 12
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624525082312",
+            "average_speed_kph": 25.4,
+            "average_hr": 159,
+            "average_power": 267,
+            "elapsed_time": 77,
+            "achievement": 0,
+            "overall_rank": 1
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950738179678",
+            "average_speed_kph": 24.4,
+            "average_hr": 140,
+            "average_power": 99,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 115
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738270025310",
+            "average_speed_kph": 24.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 161
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162890334",
+            "average_speed_kph": 24.4,
+            "average_hr": 137,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 174
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626640643112",
+            "average_speed_kph": 23,
+            "average_hr": 136,
+            "average_power": null,
+            "elapsed_time": 85,
+            "achievement": 0,
+            "overall_rank": 42
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806911744328",
+            "average_speed_kph": 20.8,
+            "average_hr": 142,
+            "average_power": 71,
+            "elapsed_time": 94,
+            "achievement": 0,
+            "overall_rank": 184
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119045476158",
+            "average_speed_kph": 19,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 103,
+            "achievement": 1,
+            "overall_rank": 459
+          }
+        ]
+      }
+    },
+    "3719576": {
+      "segment": {
+        "id": 3719576,
+        "resource_state": 3,
+        "name": "Calton Hill",
+        "activity_type": "Ride",
+        "distance": 469.1,
+        "average_grade": 4.3,
+        "maximum_grade": 12.1,
+        "elevation_high": 101,
+        "elevation_low": 80.2,
+        "start_latlng": [
+          55.953751942142844,
+          -3.1820679176598787
+        ],
+        "end_latlng": [
+          55.95509396865964,
+          -3.18256295286119
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODFBA7FD7PYBC66DI3XZB3R6O7ODPX4B2PWYBLZM7Z4HNDZYI2V34LNFHERGDZ6WAQD5TJFU3NLEA6JRQFZ5FGA=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/ODFBA7FD7PYBC66DI3XZB3R6O7ODPX4B2PWYBLZM7Z4HNDZYI2V34LNFHERGDZ6WAQD5TJFU3NLEA6JRQFZ5FGA=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KOK3PAISHSGEWC6GABJBJBRETLBDJSKEQB4E6FNBCVSPYVFYZIWNOK4O3JWUT7VEEI5LRUKAV5KG466EUJR7IDY="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-03-31T14:34:32Z",
+        "updated_at": "2021-05-20T08:02:27Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s3719576",
+          "polyline": "}motI|nlROsFKuAWmB]cBOi@k@CECcApDs@nBM`AHfHBd@",
+          "resource_state": 3
+        },
+        "effort_count": 8864,
+        "athlete_count": 1878,
+        "star_count": 23,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 72,
+          "pr_date": "2025-04-01",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14052155211,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 26
+        },
+        "xoms": {
+          "kom": "50s",
+          "qom": "1:13",
+          "overall": "50s",
+          "destination": {
+            "href": "strava://segments/3719576/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 2633473,
+          "title": "Ross Gibson",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/2633473/838268/2/large.jpg",
+          "effort_description": "17 efforts in the last 90 days",
+          "effort_count": "17",
+          "effort_counts": {
+            "overall": "17 efforts",
+            "female": "8 efforts"
+          },
+          "destination": "strava://segments/3719576/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982995881790",
+            "average_speed_kph": 15.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 110,
+            "achievement": 0,
+            "overall_rank": 52
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015864280462",
+            "average_speed_kph": 27.7,
+            "average_hr": 179,
+            "average_power": 615,
+            "elapsed_time": 61,
+            "achievement": 1,
+            "overall_rank": 12
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646161981022",
+            "average_speed_kph": 24.5,
+            "average_hr": 144,
+            "average_power": null,
+            "elapsed_time": 69,
+            "achievement": 1,
+            "overall_rank": 45
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624527355592",
+            "average_speed_kph": 24.5,
+            "average_hr": 155,
+            "average_power": 428,
+            "elapsed_time": 69,
+            "achievement": 0,
+            "overall_rank": 3
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626642715688",
+            "average_speed_kph": 21.7,
+            "average_hr": 166,
+            "average_power": null,
+            "elapsed_time": 78,
+            "achievement": 1,
+            "overall_rank": 114
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275849951838",
+            "average_speed_kph": 21.1,
+            "average_hr": 163,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 64
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119051366206",
+            "average_speed_kph": 18,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 94,
+            "achievement": 0,
+            "overall_rank": 159
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607754680490206",
+            "average_speed_kph": 17.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 98,
+            "achievement": 0,
+            "overall_rank": 234
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950740468318",
+            "average_speed_kph": 16.9,
+            "average_hr": 158,
+            "average_power": 285,
+            "elapsed_time": 100,
+            "achievement": 0,
+            "overall_rank": 199
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602187899592",
+            "average_speed_kph": 14.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 117,
+            "achievement": 0,
+            "overall_rank": 329
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502361640",
+            "average_speed_kph": 10.1,
+            "average_hr": null,
+            "average_power": 183,
+            "elapsed_time": 167,
+            "achievement": 0,
+            "overall_rank": 70
+          }
+        ]
+      }
+    },
+    "4560893": {
+      "segment": {
+        "id": 4560893,
+        "resource_state": 3,
+        "name": "Starbank",
+        "activity_type": "Ride",
+        "distance": 359.7,
+        "average_grade": 4.4,
+        "maximum_grade": 20.9,
+        "elevation_high": 28,
+        "elevation_low": 12,
+        "start_latlng": [
+          55.97988,
+          -3.201948
+        ],
+        "end_latlng": [
+          55.976816,
+          -3.200625
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QEKLOBOOHVL7NZ5BWWNO5M3JVEZBE4MBWDNS4AAJWGFVJALXCZGJALY27ISB3INTF6EEFVGHCUFLFKK6BJMAJKWR",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/QEKLOBOOHVL7NZ5BWWNO5M3JVEZBE4MBWDNS4AAJWGFVJALXCZGJALY27ISB3INTF6EEFVGHCUFLFKK6BJMAJKWR",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KP2H276QWYL2KUGRWP3VV2M4VCPALZCYZKTIY4XIGTAVLMDEZ3V3B2Q6TLW4ZHKCPXVZ6FAXVDUNZAUTVOI3QLPY"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2013-06-29T18:54:41Z",
+        "updated_at": "2021-05-20T08:02:35Z",
+        "total_elevation_gain": 16,
+        "map": {
+          "id": "s4560893",
+          "polyline": "gqttIdkpR\\ORE`@QLCr@Yv@QtDgAlE{ARK",
+          "resource_state": 3
+        },
+        "effort_count": 2644,
+        "athlete_count": 533,
+        "star_count": 6,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 55,
+          "pr_date": "2025-05-13",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14471585690,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 9
+        },
+        "xoms": {
+          "kom": "35s",
+          "qom": "49s",
+          "overall": "35s",
+          "destination": {
+            "href": "strava://segments/4560893/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 40706391,
+          "title": "Piel Rodriguez",
+          "profile": "https://graph.facebook.com/10217308232251047/picture?height=256&width=256",
+          "effort_description": "22 efforts in the last 90 days",
+          "effort_count": "22",
+          "effort_counts": {
+            "overall": "22 efforts",
+            "female": "22 efforts"
+          },
+          "destination": "strava://segments/4560893/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996261694",
+            "average_speed_kph": 16.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 1,
+            "overall_rank": 24
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624526748360",
+            "average_speed_kph": 25.9,
+            "average_hr": 159,
+            "average_power": 381,
+            "elapsed_time": 50,
+            "achievement": 0,
+            "overall_rank": 1
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275849300574",
+            "average_speed_kph": 23.5,
+            "average_hr": 126,
+            "average_power": null,
+            "elapsed_time": 55,
+            "achievement": 0,
+            "overall_rank": 44
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738270402142",
+            "average_speed_kph": 23.5,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 55,
+            "achievement": 1,
+            "overall_rank": 73
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646160293470",
+            "average_speed_kph": 21.9,
+            "average_hr": 125,
+            "average_power": null,
+            "elapsed_time": 59,
+            "achievement": 0,
+            "overall_rank": 12
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950741414494",
+            "average_speed_kph": 21.6,
+            "average_hr": 167,
+            "average_power": 303,
+            "elapsed_time": 60,
+            "achievement": 1,
+            "overall_rank": 106
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502146600",
+            "average_speed_kph": 19.9,
+            "average_hr": null,
+            "average_power": 325,
+            "elapsed_time": 65,
+            "achievement": 0,
+            "overall_rank": 73
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639159336",
+            "average_speed_kph": 15.6,
+            "average_hr": 157,
+            "average_power": null,
+            "elapsed_time": 83,
+            "achievement": 0,
+            "overall_rank": 80
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806912112968",
+            "average_speed_kph": 14.9,
+            "average_hr": 161,
+            "average_power": 197,
+            "elapsed_time": 87,
+            "achievement": 0,
+            "overall_rank": 12
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119044290366",
+            "average_speed_kph": 14.1,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 92,
+            "achievement": 0,
+            "overall_rank": 211
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602184005320",
+            "average_speed_kph": 11.9,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 109,
+            "achievement": 0,
+            "overall_rank": 138
+          }
+        ]
+      }
+    },
+    "8184895": {
+      "segment": {
+        "id": 8184895,
+        "resource_state": 3,
+        "name": "VS - Royal Observertory Climb",
+        "activity_type": "Ride",
+        "distance": 924.1,
+        "average_grade": 5.5,
+        "maximum_grade": 13.5,
+        "elevation_high": 139.4,
+        "elevation_low": 86.5,
+        "start_latlng": [
+          55.924917,
+          -3.181517
+        ],
+        "end_latlng": [
+          55.922503,
+          -3.193406
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GBHP4JIGM45MFETALBPFN7HFMZYKTPMHRQ4F2P2VG7JTFPB4IUFUI252BC7S5JBQC4F53SO6V5QP5WURJ72IOLQ=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/GBHP4JIGM45MFETALBPFN7HFMZYKTPMHRQ4F2P2VG7JTFPB4IUFUI252BC7S5JBQC4F53SO6V5QP5WURJ72IOLQ=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/54IZ2M62ZIX6FHCECIMCQWZP6GAHIHVMWZTHQNTSIY2URITPOCGANWUAND6ANYOHSDADHGEQPC5CJSQUMXDEM3A="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2014-09-21T12:35:51Z",
+        "updated_at": "2021-05-20T08:03:10Z",
+        "total_elevation_gain": 53.4,
+        "map": {
+          "id": "s8184895",
+          "polyline": "uyitInklRPp@?L^hBFp@Rt@HbA?XHj@DdAFXNrBHd@?ZPfAB\\N`ADv@Fl@FTRAF@PC@HCRN?DEV?APFCJKF?BD?JN@HEZANJ@Fd@l@`@p@Zz@FXBdADj@?\\Bn@CL?j@?XDJ@HA~@C\\?LEbB?jAKlF@dC@d@ChAKhB@K",
+          "resource_state": 3
+        },
+        "effort_count": 2455,
+        "athlete_count": 618,
+        "star_count": 28,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 167,
+          "pr_date": "2025-04-01",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14052155211,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 11
+        },
+        "xoms": {
+          "kom": "2:05",
+          "qom": "2:48",
+          "overall": "2:05",
+          "destination": {
+            "href": "strava://segments/8184895/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1120500,
+          "title": "Captain Asparagus",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1120500/273696/11/large.jpg",
+          "effort_description": "12 efforts in the last 90 days",
+          "effort_count": "12",
+          "effort_counts": {
+            "overall": "12 efforts",
+            "female": "8 efforts"
+          },
+          "destination": "strava://segments/8184895/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996934462",
+            "average_speed_kph": 12.5,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 267,
+            "achievement": 1,
+            "overall_rank": 38
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806913663304",
+            "average_speed_kph": 23.3,
+            "average_hr": 187,
+            "average_power": 408,
+            "elapsed_time": 143,
+            "achievement": 1,
+            "overall_rank": 12
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624526469832",
+            "average_speed_kph": 22.5,
+            "average_hr": 170,
+            "average_power": 448,
+            "elapsed_time": 148,
+            "achievement": 0,
+            "overall_rank": 10
+          },
+          {
+            "athlete_name": "Cal M",
+            "athlete_link": "/athletes/31752311",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "31752311",
+            "activity_id": "15755561404",
+            "segment_effort_id": "3400568757599558238",
+            "average_speed_kph": 21.2,
+            "average_hr": 183,
+            "average_power": 449,
+            "elapsed_time": 157,
+            "achievement": 0,
+            "overall_rank": 22
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275851697758",
+            "average_speed_kph": 18.7,
+            "average_hr": 150,
+            "average_power": null,
+            "elapsed_time": 178,
+            "achievement": 0,
+            "overall_rank": 28
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738269641310",
+            "average_speed_kph": 18.5,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 180,
+            "achievement": 1,
+            "overall_rank": 66
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950741341790",
+            "average_speed_kph": 17.1,
+            "average_hr": 173,
+            "average_power": 307,
+            "elapsed_time": 195,
+            "achievement": 0,
+            "overall_rank": 95
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646160388702",
+            "average_speed_kph": 16.8,
+            "average_hr": 167,
+            "average_power": null,
+            "elapsed_time": 198,
+            "achievement": 0,
+            "overall_rank": 69
+          },
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015857275278",
+            "average_speed_kph": 15.8,
+            "average_hr": 173,
+            "average_power": 301,
+            "elapsed_time": 211,
+            "achievement": 0,
+            "overall_rank": 30
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845501639720",
+            "average_speed_kph": 15.1,
+            "average_hr": null,
+            "average_power": 301,
+            "elapsed_time": 220,
+            "achievement": 0,
+            "overall_rank": 107
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119049155390",
+            "average_speed_kph": 14.5,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 230,
+            "achievement": 0,
+            "overall_rank": 149
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602188401352",
+            "average_speed_kph": 11.7,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 285,
+            "achievement": 0,
+            "overall_rank": 266
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 12,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639470632",
+            "average_speed_kph": 7.8,
+            "average_hr": 146,
+            "average_power": null,
+            "elapsed_time": 429,
+            "achievement": 0,
+            "overall_rank": 152
+          }
+        ]
+      }
+    },
+    "9954052": {
+      "segment": {
+        "id": 9954052,
+        "resource_state": 3,
+        "name": "York Buster",
+        "activity_type": "Ride",
+        "distance": 417,
+        "average_grade": 3.1,
+        "maximum_grade": 15.9,
+        "elevation_high": 29,
+        "elevation_low": 15.1,
+        "start_latlng": [
+          55.979877,
+          -3.203543
+        ],
+        "end_latlng": [
+          55.976209,
+          -3.202537
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XYVVNZVWX7F4IP4PCXXBKV6HYXST7EN3637LOE5NFQ4SINSOUU62DQPWRWAR4UWGF2FONGNDGNLLGV4H3H37CEI=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XYVVNZVWX7F4IP4PCXXBKV6HYXST7EN3637LOE5NFQ4SINSOUU62DQPWRWAR4UWGF2FONGNDGNLLGV4H3H37CEI=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/G3XXIFHNEH7MG3LVRMBIYU3YRX6MATECYQGUP3CMGUKSYPI46OMJC7Q5PQDEZLFUIHU6IBEKXIAQZSZHI4HCC2Q="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-07-14T14:13:15Z",
+        "updated_at": "2021-05-20T08:03:28Z",
+        "total_elevation_gain": 13.9,
+        "map": {
+          "id": "s9954052",
+          "polyline": "eqttIdupRfA[XCn@DhATd@CVKf@IXIv@_@dBg@|A_@dCy@",
+          "resource_state": 3
+        },
+        "effort_count": 2040,
+        "athlete_count": 314,
+        "star_count": 2,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 66,
+          "pr_date": "2025-07-29",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 15283560652,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 9
+        },
+        "xoms": {
+          "kom": "44s",
+          "qom": "1:01",
+          "overall": "44s",
+          "destination": {
+            "href": "strava://segments/9954052/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 44586807,
+          "title": "Patrick Williams",
+          "profile": "https://graph.facebook.com/5090982090931862/picture?height=256&width=256",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/9954052/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982994678590",
+            "average_speed_kph": 16.1,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 93,
+            "achievement": 1,
+            "overall_rank": 22
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910382408",
+            "average_speed_kph": 21.8,
+            "average_hr": 174,
+            "average_power": 298,
+            "elapsed_time": 69,
+            "achievement": 0,
+            "overall_rank": 17
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738272757342",
+            "average_speed_kph": 20.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 74,
+            "achievement": 0,
+            "overall_rank": 82
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624527393480",
+            "average_speed_kph": 19,
+            "average_hr": 152,
+            "average_power": 268,
+            "elapsed_time": 79,
+            "achievement": 0,
+            "overall_rank": 3
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275850706526",
+            "average_speed_kph": 18.8,
+            "average_hr": 130,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 68
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162494046",
+            "average_speed_kph": 18.8,
+            "average_hr": 136,
+            "average_power": null,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 34
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845501810728",
+            "average_speed_kph": 18.8,
+            "average_hr": null,
+            "average_power": 278,
+            "elapsed_time": 80,
+            "achievement": 0,
+            "overall_rank": 63
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626640783400",
+            "average_speed_kph": 14.4,
+            "average_hr": 162,
+            "average_power": null,
+            "elapsed_time": 104,
+            "achievement": 0,
+            "overall_rank": 68
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950739624542",
+            "average_speed_kph": 14.2,
+            "average_hr": 163,
+            "average_power": 251,
+            "elapsed_time": 106,
+            "achievement": 0,
+            "overall_rank": 107
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119043728190",
+            "average_speed_kph": 14,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 107,
+            "achievement": 0,
+            "overall_rank": 174
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602186922696",
+            "average_speed_kph": 12.6,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 119,
+            "achievement": 0,
+            "overall_rank": 110
+          }
+        ]
+      }
+    },
+    "10274277": {
+      "segment": {
+        "id": 10274277,
+        "resource_state": 3,
+        "name": "Tolboothberg",
+        "activity_type": "Ride",
+        "distance": 134,
+        "average_grade": 2.6,
+        "maximum_grade": 5.4,
+        "elevation_high": 56.8,
+        "elevation_low": 53.3,
+        "start_latlng": [
+          55.952606,
+          -3.180761
+        ],
+        "end_latlng": [
+          55.9515,
+          -3.179956
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S4LO4SOR5VSDMAJ5TPRREVSLMDFZV3D4Q2DRJFJSCEKF5UMABTC5E2CP7G2GTLJWMM5RDFJ3AHXNL5H3WQEXR3XY",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/S4LO4SOR5VSDMAJ5TPRREVSLMDFZV3D4Q2DRJFJSCEKF5UMABTC5E2CP7G2GTLJWMM5RDFJ3AHXNL5H3WQEXR3XY",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/NIWQR5CGNMU26C2W7CNHSJGBWZZBUW62MSLVWPBIQ5HR7UFOAQBHLVSLLPK2FC44SRQ4RK4BTDM7DIKNW7KRARVQ"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-08-20T20:26:44Z",
+        "updated_at": "2021-05-20T08:03:31Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s10274277",
+          "polyline": "wfotIxflRz@s@f@MnAy@f@e@",
+          "resource_state": 3
+        },
+        "effort_count": 4995,
+        "athlete_count": 684,
+        "star_count": 8,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 20,
+          "pr_date": "2024-04-16",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 11213155700,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 18
+        },
+        "xoms": {
+          "kom": "12s",
+          "qom": "19s",
+          "overall": "12s",
+          "destination": {
+            "href": "strava://segments/10274277/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1406225,
+          "title": "Joe  Agnew",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1406225/30575964/4/large.jpg",
+          "effort_description": "10 efforts in the last 90 days",
+          "effort_count": "10",
+          "effort_counts": {
+            "overall": "10 efforts",
+            "female": "5 efforts"
+          },
+          "destination": "strava://segments/10274277/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982993917758",
+            "average_speed_kph": 6.7,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 72,
+            "achievement": 1,
+            "overall_rank": 89
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950741195358",
+            "average_speed_kph": 10.5,
+            "average_hr": 149,
+            "average_power": 221,
+            "elapsed_time": 46,
+            "achievement": 0,
+            "overall_rank": 225
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626642192424",
+            "average_speed_kph": 10.3,
+            "average_hr": 156,
+            "average_power": null,
+            "elapsed_time": 47,
+            "achievement": 0,
+            "overall_rank": 119
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910282056",
+            "average_speed_kph": 10.1,
+            "average_hr": 154,
+            "average_power": 131,
+            "elapsed_time": 48,
+            "achievement": 0,
+            "overall_rank": 52
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119049000766",
+            "average_speed_kph": 9.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 49,
+            "achievement": 0,
+            "overall_rank": 133
+          },
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015862490510",
+            "average_speed_kph": 9.6,
+            "average_hr": 170,
+            "average_power": 154,
+            "elapsed_time": 50,
+            "achievement": 0,
+            "overall_rank": 32
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624526582472",
+            "average_speed_kph": 9.3,
+            "average_hr": 141,
+            "average_power": 124,
+            "elapsed_time": 52,
+            "achievement": 0,
+            "overall_rank": 2
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646163134046",
+            "average_speed_kph": 8.8,
+            "average_hr": 136,
+            "average_power": null,
+            "elapsed_time": 55,
+            "achievement": 0,
+            "overall_rank": 357
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607754679846110",
+            "average_speed_kph": 8.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 58,
+            "achievement": 0,
+            "overall_rank": 167
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602190567112",
+            "average_speed_kph": 8.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 59,
+            "achievement": 0,
+            "overall_rank": 147
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275848693342",
+            "average_speed_kph": 7.8,
+            "average_hr": 157,
+            "average_power": null,
+            "elapsed_time": 62,
+            "achievement": 0,
+            "overall_rank": 32
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845503090728",
+            "average_speed_kph": 7.8,
+            "average_hr": null,
+            "average_power": 116,
+            "elapsed_time": 62,
+            "achievement": 0,
+            "overall_rank": 52
+          }
+        ]
+      }
+    },
+    "10424816": {
+      "segment": {
+        "id": 10424816,
+        "resource_state": 3,
+        "name": "The Attacus Cobbles",
+        "activity_type": "Ride",
+        "distance": 407.8,
+        "average_grade": 0.8,
+        "maximum_grade": 1.6,
+        "elevation_high": 100.8,
+        "elevation_low": 97.5,
+        "start_latlng": [
+          55.933612,
+          -3.193994
+        ],
+        "end_latlng": [
+          55.932899,
+          -3.200395
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5ORQTY3NKZ36K7F5OTA2XFKJGSGZJCYXMU2W6WVWG7S5C3KVV4TVLZCXSGPN7OXY53BS3U322UGIBIBR7NN6YUO2",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5ORQTY3NKZ36K7F5OTA2XFKJGSGZJCYXMU2W6WVWG7S5C3KVV4TVLZCXSGPN7OXY53BS3U322UGIBIBR7NN6YUO2",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BNZCG2S4PI2GUGRJOXDIRCTRY5AJ2IIUJFMEF7GROKO5VBLCNBPBW5FWZST6DCEYWHDBBN2EUWPKV47LVIXLWIHY"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-09-08T08:07:54Z",
+        "updated_at": "2021-05-15T02:16:59Z",
+        "total_elevation_gain": 3.3,
+        "map": {
+          "id": "s10424816",
+          "polyline": "apktInynRnC~f@",
+          "resource_state": 3
+        },
+        "effort_count": 2286,
+        "athlete_count": 630,
+        "star_count": 9,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 53,
+          "pr_date": "2025-03-25",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13985808946,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 10
+        },
+        "xoms": {
+          "kom": "34s",
+          "qom": "43s",
+          "overall": "34s",
+          "destination": {
+            "href": "strava://segments/10424816/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 15322795,
+          "title": "Blair Wynd",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/15322795/15281398/2/large.jpg",
+          "effort_description": "8 efforts in the last 90 days",
+          "effort_count": "8",
+          "effort_counts": {
+            "overall": "8 efforts",
+            "female": "4 efforts"
+          },
+          "destination": "strava://segments/10424816/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996468542",
+            "average_speed_kph": 20.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 72,
+            "achievement": 1,
+            "overall_rank": 41
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015859473806",
+            "average_speed_kph": 38.6,
+            "average_hr": 185,
+            "average_power": 571,
+            "elapsed_time": 38,
+            "achievement": 2,
+            "overall_rank": 6
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950738415198",
+            "average_speed_kph": 28.8,
+            "average_hr": 168,
+            "average_power": 234,
+            "elapsed_time": 51,
+            "achievement": 1,
+            "overall_rank": 49
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624524724936",
+            "average_speed_kph": 25.8,
+            "average_hr": 158,
+            "average_power": 195,
+            "elapsed_time": 57,
+            "achievement": 0,
+            "overall_rank": 2
+          },
+          {
+            "athlete_name": "Cal M",
+            "athlete_link": "/athletes/31752311",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "31752311",
+            "activity_id": "15755561404",
+            "segment_effort_id": "3400568757603130974",
+            "average_speed_kph": 25.3,
+            "average_hr": 155,
+            "average_power": 209,
+            "elapsed_time": 58,
+            "achievement": 1,
+            "overall_rank": 105
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162242142",
+            "average_speed_kph": 24.9,
+            "average_hr": 151,
+            "average_power": null,
+            "elapsed_time": 59,
+            "achievement": 1,
+            "overall_rank": 117
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626642740264",
+            "average_speed_kph": 24.1,
+            "average_hr": 154,
+            "average_power": null,
+            "elapsed_time": 61,
+            "achievement": 0,
+            "overall_rank": 66
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845504139304",
+            "average_speed_kph": 23.7,
+            "average_hr": null,
+            "average_power": 140,
+            "elapsed_time": 62,
+            "achievement": 0,
+            "overall_rank": 54
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119048600382",
+            "average_speed_kph": 23.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 63,
+            "achievement": 0,
+            "overall_rank": 159
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738270133854",
+            "average_speed_kph": 23.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 63,
+            "achievement": 0,
+            "overall_rank": 133
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275848653406",
+            "average_speed_kph": 22.9,
+            "average_hr": 154,
+            "average_power": null,
+            "elapsed_time": 64,
+            "achievement": 0,
+            "overall_rank": 54
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602188029640",
+            "average_speed_kph": 22.6,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 65,
+            "achievement": 0,
+            "overall_rank": 54
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 12,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806912960840",
+            "average_speed_kph": 22.2,
+            "average_hr": 164,
+            "average_power": 160,
+            "elapsed_time": 66,
+            "achievement": 0,
+            "overall_rank": 32
+          }
+        ]
+      }
+    },
+    "10855724": {
+      "segment": {
+        "id": 10855724,
+        "resource_state": 3,
+        "name": "Laverockbank Chicane",
+        "activity_type": "Ride",
+        "distance": 327.3,
+        "average_grade": 5.1,
+        "maximum_grade": 400,
+        "elevation_high": 22,
+        "elevation_low": 5.2,
+        "start_latlng": [
+          55.980016,
+          -3.200234
+        ],
+        "end_latlng": [
+          55.977625,
+          -3.198972
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7FTFQYZ4KIT5RFHXMOVEMLBU4SDR2YNI5IF44MGX23SAXLPH3VUVTQ6A5IZA4ABVXQWGKEQ66MOJTSGU5TMXNLY=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/7FTFQYZ4KIT5RFHXMOVEMLBU4SDR2YNI5IF44MGX23SAXLPH3VUVTQ6A5IZA4ABVXQWGKEQ66MOJTSGU5TMXNLY=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/XSYKNEJVNSLNOIM6Z647CXUJVDNZ6GXPIBEQVBUIZWLFKPMJ64MO574CXSZXBK5TD2WUGGRKNHO2QXW4LENLKJA="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": null,
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2015-11-10T23:06:18Z",
+        "updated_at": "2021-05-20T08:03:37Z",
+        "total_elevation_gain": 0,
+        "map": {
+          "id": "s10855724",
+          "polyline": "arttIn`pRJ?x@g@P?LJT|@HBHE?SEg@Am@DQHK~@UfAa@LM?BD@NERKxAg@j@Y",
+          "resource_state": 3
+        },
+        "effort_count": 2181,
+        "athlete_count": 374,
+        "star_count": 8,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 47,
+          "pr_date": "2025-05-13",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14471585690,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 8
+        },
+        "xoms": {
+          "kom": "33s",
+          "qom": "45s",
+          "overall": "33s",
+          "destination": {
+            "href": "strava://segments/10855724/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1406225,
+          "title": "Joe  Agnew",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1406225/30575964/4/large.jpg",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/10855724/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996416318",
+            "average_speed_kph": 18.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 64,
+            "achievement": 1,
+            "overall_rank": 24
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806913711432",
+            "average_speed_kph": 32.7,
+            "average_hr": 178,
+            "average_power": 541,
+            "elapsed_time": 36,
+            "achievement": 0,
+            "overall_rank": 4
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624524711624",
+            "average_speed_kph": 31,
+            "average_hr": 158,
+            "average_power": 530,
+            "elapsed_time": 38,
+            "achievement": 0,
+            "overall_rank": 2
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738271010398",
+            "average_speed_kph": 29.5,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 40,
+            "achievement": 1,
+            "overall_rank": 29
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275848842846",
+            "average_speed_kph": 28.1,
+            "average_hr": 128,
+            "average_power": null,
+            "elapsed_time": 42,
+            "achievement": 1,
+            "overall_rank": 40
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646161577566",
+            "average_speed_kph": 25.6,
+            "average_hr": 134,
+            "average_power": null,
+            "elapsed_time": 46,
+            "achievement": 0,
+            "overall_rank": 40
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950737911390",
+            "average_speed_kph": 22.7,
+            "average_hr": 160,
+            "average_power": 296,
+            "elapsed_time": 52,
+            "achievement": 1,
+            "overall_rank": 123
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626641377320",
+            "average_speed_kph": 20.7,
+            "average_hr": 157,
+            "average_power": null,
+            "elapsed_time": 57,
+            "achievement": 0,
+            "overall_rank": 111
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502770216",
+            "average_speed_kph": 20.7,
+            "average_hr": null,
+            "average_power": 322,
+            "elapsed_time": 57,
+            "achievement": 0,
+            "overall_rank": 73
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602186869448",
+            "average_speed_kph": 17.9,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 66,
+            "achievement": 0,
+            "overall_rank": 123
+          }
+        ]
+      }
+    },
+    "13277792": {
+      "segment": {
+        "id": 13277792,
+        "resource_state": 3,
+        "name": "The Wrong Way to the Top",
+        "activity_type": "Ride",
+        "distance": 537.9,
+        "average_grade": 6.7,
+        "maximum_grade": 19.1,
+        "elevation_high": 115.6,
+        "elevation_low": 79.8,
+        "start_latlng": [
+          55.926362,
+          -3.185917
+        ],
+        "end_latlng": [
+          55.925025,
+          -3.188804
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JFU6TW7K4HZJKGBSEKJYPYET6KMTFGTFM2CAXUAQXVTGIA6FV3SDO3OFUWORSYF5URFP6SDUWSGLLFYMQ3TLV6AL",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/JFU6TW7K4HZJKGBSEKJYPYET6KMTFGTFM2CAXUAQXVTGIA6FV3SDO3OFUWORSYF5URFP6SDUWSGLLFYMQ3TLV6AL",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/MBOQLGK6T6DZTWXN7VHK2E4TOXMR5Z2655UID2LV5AB76VRJ6MBHJL6VP6A55VNE2JQO63GR33IYORLHYY77YPXS"
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-09-24T14:44:40Z",
+        "updated_at": "2021-05-15T02:18:32Z",
+        "total_elevation_gain": 35.8,
+        "map": {
+          "id": "s13277792",
+          "polyline": "wbjtI~fmRTFpAv@HADMRgCNkAFMFAD@VTJPF\\KdF@^DLHHJ?JIHOJ[Hw@BKDEDAPHVb@BH?NE~@g@vB]~BE~@?r@B\\",
+          "resource_state": 3
+        },
+        "effort_count": 1580,
+        "athlete_count": 326,
+        "star_count": 8,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 85,
+          "pr_date": "2025-04-29",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14326452144,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 11
+        },
+        "xoms": {
+          "kom": "1:01",
+          "qom": "1:38",
+          "overall": "1:01",
+          "destination": {
+            "href": "strava://segments/13277792/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1406225,
+          "title": "Joe  Agnew",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1406225/30575964/4/large.jpg",
+          "effort_description": "6 efforts in the last 90 days",
+          "effort_count": "6",
+          "effort_counts": {
+            "overall": "6 efforts",
+            "female": "4 efforts"
+          },
+          "destination": "strava://segments/13277792/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996014910",
+            "average_speed_kph": 14.1,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 137,
+            "achievement": 0,
+            "overall_rank": 31
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Cal M",
+            "athlete_link": "/athletes/31752311",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "31752311",
+            "activity_id": "15755561404",
+            "segment_effort_id": "3400568757601783390",
+            "average_speed_kph": 27.7,
+            "average_hr": 168,
+            "average_power": 610,
+            "elapsed_time": 70,
+            "achievement": 2,
+            "overall_rank": 3
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910268744",
+            "average_speed_kph": 25.8,
+            "average_hr": 174,
+            "average_power": 250,
+            "elapsed_time": 75,
+            "achievement": 2,
+            "overall_rank": 7
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275849826910",
+            "average_speed_kph": 23.1,
+            "average_hr": 126,
+            "average_power": null,
+            "elapsed_time": 84,
+            "achievement": 1,
+            "overall_rank": 21
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162832990",
+            "average_speed_kph": 20.6,
+            "average_hr": 120,
+            "average_power": null,
+            "elapsed_time": 94,
+            "achievement": 1,
+            "overall_rank": 48
+          },
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015858259342",
+            "average_speed_kph": 20.2,
+            "average_hr": 169,
+            "average_power": 405,
+            "elapsed_time": 96,
+            "achievement": 0,
+            "overall_rank": 9
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950739744350",
+            "average_speed_kph": 18.3,
+            "average_hr": 166,
+            "average_power": 316,
+            "elapsed_time": 106,
+            "achievement": 0,
+            "overall_rank": 63
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738273440350",
+            "average_speed_kph": 17.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 111,
+            "achievement": 0,
+            "overall_rank": 87
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845503020072",
+            "average_speed_kph": 17.3,
+            "average_hr": null,
+            "average_power": 338,
+            "elapsed_time": 112,
+            "achievement": 0,
+            "overall_rank": 68
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624525655752",
+            "average_speed_kph": 16.4,
+            "average_hr": 153,
+            "average_power": 288,
+            "elapsed_time": 118,
+            "achievement": 0,
+            "overall_rank": 2
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639215656",
+            "average_speed_kph": 16.1,
+            "average_hr": 160,
+            "average_power": null,
+            "elapsed_time": 120,
+            "achievement": 0,
+            "overall_rank": 99
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119050276670",
+            "average_speed_kph": 14.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 135,
+            "achievement": 0,
+            "overall_rank": 115
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 12,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602191604424",
+            "average_speed_kph": 8.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 231,
+            "achievement": 0,
+            "overall_rank": 193
+          }
+        ]
+      }
+    },
+    "13770554": {
+      "segment": {
+        "id": 13770554,
+        "resource_state": 3,
+        "name": "CobbleTrouble",
+        "activity_type": "Ride",
+        "distance": 191.7,
+        "average_grade": 5.6,
+        "maximum_grade": 10.2,
+        "elevation_high": 22.7,
+        "elevation_low": 11.9,
+        "start_latlng": [
+          55.980187,
+          -3.191868
+        ],
+        "end_latlng": [
+          55.979172,
+          -3.193294
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B7VRYACOJIZCA5KJQM5RYLOZHRB4FFH242AV5NTKQ7F3BXPRGUETKVEIRGZYIMLNZEILG7KWNT5DK2TANZZ7J3A=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/B7VRYACOJIZCA5KJQM5RYLOZHRB4FFH242AV5NTKQ7F3BXPRGUETKVEIRGZYIMLNZEILG7KWNT5DK2TANZZ7J3A=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/YSXNR66UZUPUD73CC44QAHEF3TSCFME2MLUB6PBQBPPUWEC2UCH3EI6CGFQVSB3DPAA54CR2AXMD2MPMSNQ5YRQ="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2016-12-07T13:25:14Z",
+        "updated_at": "2021-05-15T02:18:47Z",
+        "total_elevation_gain": 10.8,
+        "map": {
+          "id": "s13770554",
+          "polyline": "csttIdlnRQhD?\\HTFDj@R\\Hd@FL?b@Lf@D",
+          "resource_state": 3
+        },
+        "effort_count": 2236,
+        "athlete_count": 639,
+        "star_count": 10,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 35,
+          "pr_date": "2024-09-17",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 12435975895,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 8
+        },
+        "xoms": {
+          "kom": "21s",
+          "qom": "32s",
+          "overall": "21s",
+          "destination": {
+            "href": "strava://segments/13770554/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 44586807,
+          "title": "Patrick Williams",
+          "profile": "https://graph.facebook.com/5090982090931862/picture?height=256&width=256",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/13770554/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982997208894",
+            "average_speed_kph": 13.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 50,
+            "achievement": 1,
+            "overall_rank": 34
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646160726622",
+            "average_speed_kph": 17.7,
+            "average_hr": 128,
+            "average_power": null,
+            "elapsed_time": 39,
+            "achievement": 0,
+            "overall_rank": 85
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502994472",
+            "average_speed_kph": 17.7,
+            "average_hr": null,
+            "average_power": 350,
+            "elapsed_time": 39,
+            "achievement": 0,
+            "overall_rank": 20
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602184289992",
+            "average_speed_kph": 17.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 40,
+            "achievement": 0,
+            "overall_rank": 20
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624526936776",
+            "average_speed_kph": 17.3,
+            "average_hr": 133,
+            "average_power": 293,
+            "elapsed_time": 40,
+            "achievement": 0,
+            "overall_rank": 3
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950739522142",
+            "average_speed_kph": 16.4,
+            "average_hr": 141,
+            "average_power": 287,
+            "elapsed_time": 42,
+            "achievement": 0,
+            "overall_rank": 85
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626640607272",
+            "average_speed_kph": 15.7,
+            "average_hr": 141,
+            "average_power": null,
+            "elapsed_time": 44,
+            "achievement": 0,
+            "overall_rank": 102
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806912475464",
+            "average_speed_kph": 15.7,
+            "average_hr": 155,
+            "average_power": 244,
+            "elapsed_time": 44,
+            "achievement": 0,
+            "overall_rank": 35
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119046872894",
+            "average_speed_kph": 14.7,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 47,
+            "achievement": 1,
+            "overall_rank": 247
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275849409118",
+            "average_speed_kph": 14.4,
+            "average_hr": 124,
+            "average_power": null,
+            "elapsed_time": 48,
+            "achievement": 0,
+            "overall_rank": 13
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738269559390",
+            "average_speed_kph": 14.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 48,
+            "achievement": 0,
+            "overall_rank": 56
+          }
+        ]
+      }
+    },
+    "28215943": {
+      "segment": {
+        "id": 28215943,
+        "resource_state": 3,
+        "name": "Laverockbank Zigzag",
+        "activity_type": "Ride",
+        "distance": 311.8,
+        "average_grade": 4.5,
+        "maximum_grade": 16.2,
+        "elevation_high": 27.4,
+        "elevation_low": 13.4,
+        "start_latlng": [
+          55.98021,
+          -3.198849
+        ],
+        "end_latlng": [
+          55.977771,
+          -3.19755
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5YEBSJG54477ZMCLRXK4ZBDI5GNNVHUXU3OK3RICJLJD3IPGDW3S3E2TGU6RUXWW5CVLIFJ2O6OOJUSPCIXNT7I=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/5YEBSJG54477ZMCLRXK4ZBDI5GNNVHUXU3OK3RICJLJD3IPGDW3S3E2TGU6RUXWW5CVLIFJ2O6OOJUSPCIXNT7I=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/TJQMX6KUB3ZBD2LUWQC2PKXTMNAQ4HQDFRZ2AFJZRGOL5EBI563IW3NYTCF7PQPBF7ZCP6XOJ2MFHZW64JELLII="
+        },
+        "climb_category": 0,
+        "city": "Newhaven",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2021-04-28T12:26:42Z",
+        "updated_at": "2021-05-20T08:05:54Z",
+        "total_elevation_gain": 14,
+        "map": {
+          "id": "s28215943",
+          "polyline": "isttIxwoRdASl@E~@QFGBMCoADSHIh@MdEq@`@KHG",
+          "resource_state": 3
+        },
+        "effort_count": 1943,
+        "athlete_count": 291,
+        "star_count": 2,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 46,
+          "pr_date": "2025-05-13",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14471585690,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 10
+        },
+        "xoms": {
+          "kom": "33s",
+          "qom": "42s",
+          "overall": "33s",
+          "destination": {
+            "href": "strava://segments/28215943/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 1406225,
+          "title": "Joe  Agnew",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/1406225/30575964/4/large.jpg",
+          "effort_description": "5 efforts in the last 90 days",
+          "effort_count": "5",
+          "effort_counts": {
+            "overall": "5 efforts",
+            "female": "2 efforts"
+          },
+          "destination": "strava://segments/28215943/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982995803966",
+            "average_speed_kph": 17.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 63,
+            "achievement": 1,
+            "overall_rank": 18
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624527263432",
+            "average_speed_kph": 30.3,
+            "average_hr": 160,
+            "average_power": 560,
+            "elapsed_time": 37,
+            "achievement": 0,
+            "overall_rank": 1
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275850100318",
+            "average_speed_kph": 28.1,
+            "average_hr": 144,
+            "average_power": null,
+            "elapsed_time": 40,
+            "achievement": 1,
+            "overall_rank": 19
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806912718152",
+            "average_speed_kph": 27.4,
+            "average_hr": 178,
+            "average_power": 370,
+            "elapsed_time": 41,
+            "achievement": 0,
+            "overall_rank": 19
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738273664606",
+            "average_speed_kph": 23.4,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 48,
+            "achievement": 1,
+            "overall_rank": 72
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950739141214",
+            "average_speed_kph": 22,
+            "average_hr": 168,
+            "average_power": 288,
+            "elapsed_time": 51,
+            "achievement": 1,
+            "overall_rank": 89
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845501741096",
+            "average_speed_kph": 22,
+            "average_hr": null,
+            "average_power": 325,
+            "elapsed_time": 51,
+            "achievement": 0,
+            "overall_rank": 46
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639602728",
+            "average_speed_kph": 19.4,
+            "average_hr": 161,
+            "average_power": null,
+            "elapsed_time": 58,
+            "achievement": 0,
+            "overall_rank": 132
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646161511006",
+            "average_speed_kph": 19,
+            "average_hr": 123,
+            "average_power": null,
+            "elapsed_time": 59,
+            "achievement": 0,
+            "overall_rank": 33
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602183885512",
+            "average_speed_kph": 6.9,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 163,
+            "achievement": 0,
+            "overall_rank": 105
+          }
+        ]
+      }
+    },
+    "31898261": {
+      "segment": {
+        "id": 31898261,
+        "resource_state": 3,
+        "name": "Warrender Park Road West",
+        "activity_type": "Ride",
+        "distance": 504.2,
+        "average_grade": 2,
+        "maximum_grade": 6.4,
+        "elevation_high": 98,
+        "elevation_low": 88,
+        "start_latlng": [
+          55.938292,
+          -3.194986
+        ],
+        "end_latlng": [
+          55.937247,
+          -3.202693
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2DT2I2ACGG6LLRVXS7C3CTXFYOE7SMZJURNR5JGCQIDSK25OFM2DAX5O5R5V6QWXXBA4Y3HA3RIXEI3KXFDUNWA=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2DT2I2ACGG6LLRVXS7C3CTXFYOE7SMZJURNR5JGCQIDSK25OFM2DAX5O5R5V6QWXXBA4Y3HA3RIXEI3KXFDUNWA=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/SOHJIMRN4CG6WW7YJIGJUED5ZAF4RWFN4KKEOJALF7PZ2NU7NRCD2TZ5XYTRNSX6B6SPOZWA2RNHOKOGZZE4QQI="
+        },
+        "climb_category": 0,
+        "city": "Edinburgh",
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2022-05-31T12:10:05Z",
+        "updated_at": "2022-05-31T12:10:06Z",
+        "total_elevation_gain": 10,
+        "map": {
+          "id": "s31898261",
+          "polyline": "imltIt_oRC~A@n@ClEFxEJjBNbBL~@tB~MHr@Br@`@tB",
+          "resource_state": 3
+        },
+        "effort_count": 3222,
+        "athlete_count": 1220,
+        "star_count": 7,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 61,
+          "pr_date": "2025-04-01",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 14052155211,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 6
+        },
+        "xoms": {
+          "kom": "42s",
+          "qom": "51s",
+          "overall": "42s",
+          "destination": {
+            "href": "strava://segments/31898261/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 101934060,
+          "title": "Hamish Hartley",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/101934060/39244043/5/large.jpg",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "3 efforts"
+          },
+          "destination": "strava://segments/31898261/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982995130174",
+            "average_speed_kph": 23.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 78,
+            "achievement": 1,
+            "overall_rank": 26
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015859296654",
+            "average_speed_kph": 37.8,
+            "average_hr": 181,
+            "average_power": 630,
+            "elapsed_time": 48,
+            "achievement": 2,
+            "overall_rank": 7
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162304606",
+            "average_speed_kph": 33.6,
+            "average_hr": 144,
+            "average_power": null,
+            "elapsed_time": 54,
+            "achievement": 0,
+            "overall_rank": 28
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626639360040",
+            "average_speed_kph": 32.4,
+            "average_hr": 165,
+            "average_power": null,
+            "elapsed_time": 56,
+            "achievement": 1,
+            "overall_rank": 43
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602189898440",
+            "average_speed_kph": 29.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 62,
+            "achievement": 1,
+            "overall_rank": 84
+          },
+          {
+            "athlete_name": "Cal M",
+            "athlete_link": "/athletes/31752311",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "31752311",
+            "activity_id": "15755561404",
+            "segment_effort_id": "3400568757595698782",
+            "average_speed_kph": 24.9,
+            "average_hr": 154,
+            "average_power": 254,
+            "elapsed_time": 73,
+            "achievement": 0,
+            "overall_rank": 43
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624526052040",
+            "average_speed_kph": 24.9,
+            "average_hr": 152,
+            "average_power": 250,
+            "elapsed_time": 73,
+            "achievement": 0,
+            "overall_rank": 3
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950741310046",
+            "average_speed_kph": 24.5,
+            "average_hr": 155,
+            "average_power": 222,
+            "elapsed_time": 74,
+            "achievement": 0,
+            "overall_rank": 90
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738273232478",
+            "average_speed_kph": 24.2,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 75,
+            "achievement": 0,
+            "overall_rank": 152
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502719016",
+            "average_speed_kph": 24.2,
+            "average_hr": null,
+            "average_power": 247,
+            "elapsed_time": 75,
+            "achievement": 0,
+            "overall_rank": 99
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275847974494",
+            "average_speed_kph": 23.9,
+            "average_hr": 142,
+            "average_power": null,
+            "elapsed_time": 76,
+            "achievement": 0,
+            "overall_rank": 28
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119050208062",
+            "average_speed_kph": 23.6,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 77,
+            "achievement": 1,
+            "overall_rank": 181
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 12,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910168392",
+            "average_speed_kph": 23.6,
+            "average_hr": 167,
+            "average_power": 213,
+            "elapsed_time": 77,
+            "achievement": 0,
+            "overall_rank": 36
+          }
+        ]
+      }
+    },
+    "38484944": {
+      "segment": {
+        "id": 38484944,
+        "resource_state": 3,
+        "name": "Hillz: Dublin St",
+        "activity_type": "Ride",
+        "distance": 519.1,
+        "average_grade": 5.1,
+        "maximum_grade": 21.3,
+        "elevation_high": 48.8,
+        "elevation_low": 22.4,
+        "start_latlng": [
+          55.960409,
+          -3.195286
+        ],
+        "end_latlng": [
+          55.956235,
+          -3.193066
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2I4GSLADWDVMLF6JZ7U6YMCTSZGSO6GWA7KEQCT5OXQD45DSG7RO3CKDYUJKYEDOD7ZMLMLN4SYKWLLYSLZMP3Q=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/2I4GSLADWDVMLF6JZ7U6YMCTSZGSO6GWA7KEQCT5OXQD45DSG7RO3CKDYUJKYEDOD7ZMLMLN4SYKWLLYSLZMP3Q=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/IGIRHKHBLOCOQK6CQWFZLRAVRN64BCTMRNTYHR3HACDFCFS7EICTMIT62EVPK6ABAQ7YR2S2NLNMJZOYJXTBZWY="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-01-22T17:32:14Z",
+        "updated_at": "2025-01-22T17:32:14Z",
+        "total_elevation_gain": 26.4,
+        "map": {
+          "id": "s38484944",
+          "polyline": "owptIpaoRfBq@h@O|As@JWHcANm@Pa@FKRM^AVFHFZb@TPJBRAVKr@g@j@Mz@Yj@[XUd@Sb@Md@U",
+          "resource_state": 3
+        },
+        "effort_count": 15090,
+        "athlete_count": 3705,
+        "star_count": 1,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 84,
+          "pr_date": "2025-02-18",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 13663679469,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 6
+        },
+        "xoms": {
+          "kom": "1:03",
+          "qom": "1:22",
+          "overall": "1:03",
+          "destination": {
+            "href": "strava://segments/38484944/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 11559175,
+          "title": "Dave Storrar",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/11559175/7254595/1/large.jpg",
+          "effort_description": "23 efforts in the last 90 days",
+          "effort_count": "23",
+          "effort_counts": {
+            "overall": "23 efforts",
+            "female": "19 efforts"
+          },
+          "destination": "strava://segments/38484944/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [
+          {
+            "athlete_name": "Aušrinė Damušytė",
+            "athlete_link": "/athletes/147495877",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "147495877",
+            "activity_id": "15756029355",
+            "segment_effort_id": "3400578982996754238",
+            "average_speed_kph": 14.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 126,
+            "achievement": 1,
+            "overall_rank": 28
+          }
+        ],
+        "men": [
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624525128392",
+            "average_speed_kph": 22.5,
+            "average_hr": 156,
+            "average_power": 451,
+            "elapsed_time": 83,
+            "achievement": 0,
+            "overall_rank": 1
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646163020382",
+            "average_speed_kph": 21,
+            "average_hr": 133,
+            "average_power": null,
+            "elapsed_time": 89,
+            "achievement": 1,
+            "overall_rank": 58
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502725160",
+            "average_speed_kph": 19.5,
+            "average_hr": null,
+            "average_power": 419,
+            "elapsed_time": 96,
+            "achievement": 0,
+            "overall_rank": 48
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607738271981150",
+            "average_speed_kph": 18.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 102,
+            "achievement": 0,
+            "overall_rank": 90
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275847628382",
+            "average_speed_kph": 18,
+            "average_hr": 145,
+            "average_power": null,
+            "elapsed_time": 104,
+            "achievement": 0,
+            "overall_rank": 40
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950738238046",
+            "average_speed_kph": 16.5,
+            "average_hr": 164,
+            "average_power": 299,
+            "elapsed_time": 113,
+            "achievement": 0,
+            "overall_rank": 129
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626642359336",
+            "average_speed_kph": 16.3,
+            "average_hr": 160,
+            "average_power": null,
+            "elapsed_time": 115,
+            "achievement": 0,
+            "overall_rank": 137
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602188733128",
+            "average_speed_kph": 15.1,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 124,
+            "achievement": 0,
+            "overall_rank": 221
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119046379326",
+            "average_speed_kph": 14.3,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 131,
+            "achievement": 0,
+            "overall_rank": 118
+          },
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806910490952",
+            "average_speed_kph": 12.6,
+            "average_hr": 149,
+            "average_power": 175,
+            "elapsed_time": 148,
+            "achievement": 0,
+            "overall_rank": 27
+          }
+        ]
+      }
+    },
+    "39866111": {
+      "segment": {
+        "id": 39866111,
+        "resource_state": 3,
+        "name": "This shouldn’t be allowed",
+        "activity_type": "Ride",
+        "distance": 1631.7,
+        "average_grade": 4.7,
+        "maximum_grade": 12.2,
+        "elevation_high": 133,
+        "elevation_low": 54.8,
+        "start_latlng": [
+          55.949999,
+          -3.174886
+        ],
+        "end_latlng": [
+          55.941107,
+          -3.164941
+        ],
+        "elevation_profile": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BSBXSYQ42EG67KS5E2BGCCKSFT76HGMDFRHFGNSG6WK4HJFHL5X6QWV5TTKLIC63HD42KT6QG2VLY4WHK37EJSY=",
+        "elevation_profiles": {
+          "light_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/BSBXSYQ42EG67KS5E2BGCCKSFT76HGMDFRHFGNSG6WK4HJFHL5X6QWV5TTKLIC63HD42KT6QG2VLY4WHK37EJSY=",
+          "dark_url": "https://d3o5xota0a1fcr.cloudfront.net/v6/charts/KEUBDMUCCULD6JX2UMUM3VH4JPOWVZV4OFPYX2SGGSHK6RAVIIA5RCPFAQMTZAWFH7BLN4353M55UM5KNEKKOQA="
+        },
+        "climb_category": 0,
+        "city": null,
+        "state": "Scotland",
+        "country": "United Kingdom",
+        "private": false,
+        "hazardous": false,
+        "starred": false,
+        "created_at": "2025-08-12T21:07:34Z",
+        "updated_at": "2025-08-12T21:08:21Z",
+        "total_elevation_gain": 78.2,
+        "map": {
+          "id": "s39866111",
+          "polyline": "mvntI`bkRJYV}@HQNKH@HPVpAj@zAlA`CfAtAtAjAz@d@tC|@`BXt@BjAEd@Iz@WhAg@fCyA~B{Ah@c@l@y@Zu@J_@F_@LkAF{BAsEHmEV{FJ_ANe@Aq@@s@X_DLmCDiBEeB?sAH}AH_@Nk@\\m@VQlAWb@Ud@g@PW",
+          "resource_state": 3
+        },
+        "effort_count": 349,
+        "athlete_count": 275,
+        "star_count": 0,
+        "athlete_segment_stats": {
+          "pr_elapsed_time": 229,
+          "pr_date": "2025-08-12",
+          "pr_visibility": "everyone",
+          "pr_activity_id": 15437761208,
+          "pr_activity_visibility": "everyone",
+          "effort_count": 1
+        },
+        "xoms": {
+          "kom": "3:18",
+          "qom": "4:56",
+          "overall": "3:18",
+          "destination": {
+            "href": "strava://segments/39866111/leaderboard",
+            "type": "overall",
+            "name": "All-Time"
+          }
+        },
+        "local_legend": {
+          "athlete_id": 990823,
+          "title": "Elizabeth Richardson",
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/990823/1457849/2/large.jpg",
+          "effort_description": "4 efforts in the last 90 days",
+          "effort_count": "4",
+          "effort_counts": {
+            "overall": "4 efforts",
+            "female": "4 efforts"
+          },
+          "destination": "strava://segments/39866111/local_legend?categories%5B%5D=overall"
+        }
+      },
+      "efforts": {
+        "women": [],
+        "men": [
+          {
+            "athlete_name": "Joe  Agnew",
+            "athlete_link": "/athletes/1406225",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 1,
+            "athlete_id": "1406225",
+            "activity_id": "15756744060",
+            "segment_effort_id": "3400600806913461576",
+            "average_speed_kph": 23.9,
+            "average_hr": 181,
+            "average_power": 385,
+            "elapsed_time": 246,
+            "achievement": 2,
+            "overall_rank": 5
+          },
+          {
+            "athlete_name": "George Morris",
+            "athlete_link": "/athletes/108388455",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 2,
+            "athlete_id": "108388455",
+            "activity_id": "15756945513",
+            "segment_effort_id": "3400607275850398302",
+            "average_speed_kph": 23.3,
+            "average_hr": 116,
+            "average_power": null,
+            "elapsed_time": 252,
+            "achievement": 2,
+            "overall_rank": 10
+          },
+          {
+            "athlete_name": "Hamish Hartley",
+            "athlete_link": "/athletes/101934060",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 3,
+            "athlete_id": "101934060",
+            "activity_id": "15755625751",
+            "segment_effort_id": "3400570015864888718",
+            "average_speed_kph": 22.7,
+            "average_hr": 177,
+            "average_power": 405,
+            "elapsed_time": 259,
+            "achievement": 0,
+            "overall_rank": 9
+          },
+          {
+            "athlete_name": "Gabriele Revelli",
+            "athlete_link": "/athletes/55886807",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 4,
+            "athlete_id": "55886807",
+            "activity_id": "15756960416",
+            "segment_effort_id": "3400607754680223966",
+            "average_speed_kph": 21.1,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 278,
+            "achievement": 1,
+            "overall_rank": 24
+          },
+          {
+            "athlete_name": "Joshua Mareschal",
+            "athlete_link": "/athletes/41944755",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 5,
+            "athlete_id": "41944755",
+            "activity_id": "15756988315",
+            "segment_effort_id": "3400608646162414174",
+            "average_speed_kph": 20.8,
+            "average_hr": 146,
+            "average_power": null,
+            "elapsed_time": 283,
+            "achievement": 1,
+            "overall_rank": 28
+          },
+          {
+            "athlete_name": "Graham Cottingham",
+            "athlete_link": "/athletes/1535637",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 6,
+            "athlete_id": "1535637",
+            "activity_id": "15757018298",
+            "segment_effort_id": "3400609624524067528",
+            "average_speed_kph": 20.3,
+            "average_hr": 154,
+            "average_power": 313,
+            "elapsed_time": 290,
+            "achievement": 0,
+            "overall_rank": 22
+          },
+          {
+            "athlete_name": "Lawrence Mitchell",
+            "athlete_link": "/athletes/2042067",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 7,
+            "athlete_id": "2042067",
+            "activity_id": "15755988207",
+            "segment_effort_id": "3400577950739499614",
+            "average_speed_kph": 20.1,
+            "average_hr": 167,
+            "average_power": 299,
+            "elapsed_time": 292,
+            "achievement": 1,
+            "overall_rank": 37
+          },
+          {
+            "athlete_name": "Peter Tilley",
+            "athlete_link": "/athletes/32221999",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 8,
+            "athlete_id": "32221999",
+            "activity_id": "15757025676",
+            "segment_effort_id": "3400609845502017576",
+            "average_speed_kph": 19.3,
+            "average_hr": null,
+            "average_power": 323,
+            "elapsed_time": 305,
+            "achievement": 1,
+            "overall_rank": 45
+          },
+          {
+            "athlete_name": "Pacho Quintero",
+            "athlete_link": "/athletes/36326087",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 9,
+            "athlete_id": "36326087",
+            "activity_id": "15756109871",
+            "segment_effort_id": "3400581119048905534",
+            "average_speed_kph": 18.6,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 315,
+            "achievement": 1,
+            "overall_rank": 51
+          },
+          {
+            "athlete_name": "Jack Yates",
+            "athlete_link": "/athletes/8891731",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 10,
+            "athlete_id": "8891731",
+            "activity_id": "15756523472",
+            "segment_effort_id": "3400593626641309736",
+            "average_speed_kph": 17.6,
+            "average_hr": 161,
+            "average_power": null,
+            "elapsed_time": 334,
+            "achievement": 0,
+            "overall_rank": 60
+          },
+          {
+            "athlete_name": "Alan MacIsaac",
+            "athlete_link": "/athletes/1982618",
+            "start_date": "2025-09-08T23:00:00.000Z",
+            "rank": 11,
+            "athlete_id": "1982618",
+            "activity_id": "15756333571",
+            "segment_effort_id": "3400587602188339912",
+            "average_speed_kph": 14.8,
+            "average_hr": null,
+            "average_power": null,
+            "elapsed_time": 396,
+            "achievement": 1,
+            "overall_rank": 124
+          }
+        ]
+      }
+    }
+  }
+}
